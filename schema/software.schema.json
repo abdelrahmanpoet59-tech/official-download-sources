@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Official Download Sources: software.json",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "name", "official_site"],
+    "properties": {
+      "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+      "name": { "type": "string" },
+      "publisher": { "type": "string" },
+      "category": { "type": "string" },
+      "platforms": { "type": "array", "items": { "enum": ["windows", "mac", "linux", "android", "iphone"] } },
+      "official_site": { "type": "string", "format": "uri" },
+      "official_domain": { "type": "string" },
+      "download_page": { "type": "string", "format": "uri" },
+      "source_repo": { "type": "string", "format": "uri" },
+      "winget_id": { "type": "string" },
+      "version": { "type": "string" },
+      "released": { "type": "string" },
+      "license": { "type": "string" },
+      "signer": { "type": "string", "description": "Authenticode signer name Windows reported when checked" },
+      "files": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["filename", "sha256"],
+          "properties": {
+            "filename": { "type": "string" },
+            "build": { "type": "string" },
+            "size_mb": { "type": ["number", "string", "null"] },
+            "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" }
+          }
+        }
+      },
+      "known_impostors": { "type": "array", "items": { "type": "object", "properties": { "domain": { "type": "string" }, "source": { "type": "string" } } } },
+      "checked": { "type": "string", "description": "Date the official data was recorded (YYYY-MM-DD)" },
+      "details_url": { "type": "string", "format": "uri" }
+    }
+  }
+}

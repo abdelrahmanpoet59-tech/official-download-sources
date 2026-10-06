@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Official Download Sources: impostors.json",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["software", "impostor_domain", "classification", "source_url"],
+    "properties": {
+      "software": { "type": "string" },
+      "official_domains": { "type": "array", "items": { "type": "string" } },
+      "impostor_domain": { "type": "string" },
+      "classification": { "enum": ["reported-malicious", "unofficial-warned", "typosquat-reported"] },
+      "first_reported": { "type": "string" },
+      "source_name": { "type": "string" },
+      "source_url": { "type": "string", "format": "uri" },
+      "summary": { "type": "string" },
+      "display": { "type": "string" },
+      "note": { "type": "string" }
+    }
+  }
+}
