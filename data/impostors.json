@@ -1,0 +1,1075 @@
+[
+  {
+    "software": "7-Zip",
+    "official_domains": [
+      "7-zip.org"
+    ],
+    "impostor_domain": "7zip.com",
+    "classification": "reported-malicious",
+    "first_reported": "2026-02-09",
+    "source_name": "Malwarebytes",
+    "source_url": "https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes",
+    "summary": "Lookalike 7zip.com served trojanized 7-Zip installer that turns PCs into residential proxy nodes."
+  },
+  {
+    "software": "Advanced IP Scanner",
+    "official_domains": [
+      "advanced-ip-scanner.com"
+    ],
+    "impostor_domain": "advaanced-ip-scanner.com",
+    "classification": "reported-malicious",
+    "first_reported": "2024-04-17",
+    "source_name": "Zscaler ThreatLabz",
+    "source_url": "https://www.zscaler.com/blogs/security-research/malvertising-campaign-targeting-it-teams-madmxshell",
+    "summary": "Typosquat in the MadMxShell campaign."
+  },
+  {
+    "software": "Advanced IP Scanner",
+    "official_domains": [
+      "advanced-ip-scanner.com"
+    ],
+    "impostor_domain": "advanced-ip-scanerr.com",
+    "classification": "reported-malicious",
+    "first_reported": "2024-04-17",
+    "source_name": "Zscaler ThreatLabz",
+    "source_url": "https://www.zscaler.com/blogs/security-research/malvertising-campaign-targeting-it-teams-madmxshell",
+    "summary": "Typosquat in the MadMxShell campaign."
+  },
+  {
+    "software": "Advanced IP Scanner",
+    "official_domains": [
+      "advanced-ip-scanner.com"
+    ],
+    "impostor_domain": "advanced-ip-scanz.net",
+    "classification": "reported-malicious",
+    "first_reported": "2024-04-17",
+    "source_name": "Zscaler ThreatLabz",
+    "source_url": "https://www.zscaler.com/blogs/security-research/malvertising-campaign-targeting-it-teams-madmxshell",
+    "summary": "Typosquat in the MadMxShell campaign."
+  },
+  {
+    "software": "Advanced IP Scanner",
+    "official_domains": [
+      "advanced-ip-scanner.com"
+    ],
+    "impostor_domain": "advansed-ip-scanner.net",
+    "classification": "reported-malicious",
+    "first_reported": "2024-04-17",
+    "source_name": "Zscaler ThreatLabz",
+    "source_url": "https://www.zscaler.com/blogs/security-research/malvertising-campaign-targeting-it-teams-madmxshell",
+    "summary": "Typosquat promoted via Google Ads delivering the MadMxShell backdoor."
+  },
+  {
+    "software": "Advanced IP Scanner",
+    "official_domains": [
+      "advanced-ip-scanner.com"
+    ],
+    "impostor_domain": "advvanced-ip-scanner.net",
+    "classification": "reported-malicious",
+    "first_reported": "2024-04-17",
+    "source_name": "Zscaler ThreatLabz",
+    "source_url": "https://www.zscaler.com/blogs/security-research/malvertising-campaign-targeting-it-teams-madmxshell",
+    "summary": "Typosquat in the MadMxShell campaign."
+  },
+  {
+    "software": "AnyDesk",
+    "official_domains": [
+      "anydesk.com"
+    ],
+    "impostor_domain": "anydaske.website",
+    "classification": "reported-malicious",
+    "first_reported": "2023-01-21",
+    "source_name": "Silent Push",
+    "source_url": "https://www.silentpush.com/?p=1357",
+    "summary": "Spoofed AnyDesk domain reached via a Google ads redirect."
+  },
+  {
+    "software": "AnyDesk",
+    "official_domains": [
+      "anydesk.com"
+    ],
+    "impostor_domain": "anydesk.ml",
+    "classification": "reported-malicious",
+    "first_reported": "2022-10-13",
+    "source_name": "Cyble",
+    "source_url": "https://cyble.com/blog/mitsu-stealer-distributed-via-anydesk-phishing-site/",
+    "summary": "AnyDesk phishing site whose Download button delivered Mitsu Stealer."
+  },
+  {
+    "software": "AnyDesk",
+    "official_domains": [
+      "anydesk.com"
+    ],
+    "impostor_domain": "anydeskcom.top",
+    "classification": "reported-malicious",
+    "first_reported": "2023-01-21",
+    "source_name": "Silent Push (with Malwarebytes)",
+    "source_url": "https://www.silentpush.com/?p=1357",
+    "summary": "Spoofed AnyDesk domain (seen as wvww.anydeskcom.top) distributed via Google ads."
+  },
+  {
+    "software": "Audacity",
+    "official_domains": [
+      "audacityteam.org"
+    ],
+    "impostor_domain": "audacity.de",
+    "classification": "reported-malicious",
+    "first_reported": "2018-09-26",
+    "source_name": "Audacity forum (Audacity team members)",
+    "source_url": "https://forum.audacityteam.org/t/is-audacity-de-an-official-domain-from-the-audacity-team/50373",
+    "summary": "A team member called audacity.de a malware/scam site breaching Audacity's trademark."
+  },
+  {
+    "software": "Bambu Lab",
+    "official_domains": [
+      "bambulab.com",
+      "store.bambulab.com"
+    ],
+    "impostor_domain": "bamboolab.com",
+    "classification": "reported-malicious",
+    "first_reported": "2025-07-08",
+    "source_name": "Bambu Lab official forum announcement",
+    "source_url": "https://forum.bambulab.com/t/psa-impersonation-scams-alert/181260",
+    "summary": "Look-alike domain impersonating Bambu Lab to take payment for products never sent.",
+    "note": "Store/payment scam, not a software-download site."
+  },
+  {
+    "software": "Bambu Lab",
+    "official_domains": [
+      "bambulab.com",
+      "store.bambulab.com"
+    ],
+    "impostor_domain": "blmake.pro",
+    "classification": "reported-malicious",
+    "first_reported": "2025-07-08",
+    "source_name": "Bambu Lab official forum announcement",
+    "source_url": "https://forum.bambulab.com/t/psa-impersonation-scams-alert/181260",
+    "summary": "Listed by Bambu Lab as an impersonation domain to avoid.",
+    "note": "Store/payment scam."
+  },
+  {
+    "software": "Bitwarden",
+    "official_domains": [
+      "bitwarden.com",
+      "vault.bitwarden.com"
+    ],
+    "impostor_domain": "appbitwarden.com",
+    "classification": "reported-malicious",
+    "first_reported": "2023-01-26",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com/news/security/bitwarden-password-vaults-targeted-in-google-ads-phishing-attack/",
+    "summary": "Google ad domain redirecting users to a Bitwarden vault phishing page."
+  },
+  {
+    "software": "Bitwarden",
+    "official_domains": [
+      "bitwarden.com",
+      "vault.bitwarden.com"
+    ],
+    "impostor_domain": "bitwardenlogin.com",
+    "classification": "reported-malicious",
+    "first_reported": "2023-01-26",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com/news/security/bitwarden-password-vaults-targeted-in-google-ads-phishing-attack/",
+    "summary": "Copy of the Bitwarden Web Vault login page stealing master passwords."
+  },
+  {
+    "software": "Blender",
+    "official_domains": [
+      "blender.org"
+    ],
+    "impostor_domain": "biender.site",
+    "classification": "reported-malicious",
+    "first_reported": "2020-08-02",
+    "source_name": "BlenderNation (quoting Blender founder Ton Roosendaal)",
+    "source_url": "https://www.blendernation.com/2020/08/02/warning-fake-blender-site-spreading-trojans/",
+    "summary": "Fake Blender site spreading trojans, advertised on YouTube and Facebook."
+  },
+  {
+    "software": "Blender",
+    "official_domains": [
+      "blender.org"
+    ],
+    "impostor_domain": "blahder3dsoft.store",
+    "classification": "reported-malicious",
+    "first_reported": "2023-03-09",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com/malvertising-through-search-engines/108996/",
+    "summary": "Typosquat Blender domain listed in malvertising indicators."
+  },
+  {
+    "software": "Blender",
+    "official_domains": [
+      "blender.org"
+    ],
+    "impostor_domain": "blender-download.org",
+    "classification": "reported-malicious",
+    "first_reported": "2023-03-09",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com/malvertising-through-search-engines/108996/",
+    "summary": "Blender look-alike domain used in malvertising."
+  },
+  {
+    "software": "Blender",
+    "official_domains": [
+      "blender.org"
+    ],
+    "impostor_domain": "blender3d-download.com",
+    "classification": "reported-malicious",
+    "first_reported": "2023-03-09",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com/malvertising-through-search-engines/108996/",
+    "summary": "Combosquatted Blender domain in search-ad malvertising delivering stealers."
+  },
+  {
+    "software": "Blender",
+    "official_domains": [
+      "blender.org"
+    ],
+    "impostor_domain": "blender3d-software.org",
+    "classification": "reported-malicious",
+    "first_reported": "2023-03-09",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com/malvertising-through-search-engines/108996/",
+    "summary": "One of about 18 Blender look-alike domains on the same malicious IP."
+  },
+  {
+    "software": "Brave",
+    "official_domains": [
+      "brave.com"
+    ],
+    "impostor_domain": "xn--brav-yva.com",
+    "display": "bravė.com",
+    "classification": "reported-malicious",
+    "first_reported": "2021-08-04",
+    "source_name": "Hackread (reported by a Brave developer)",
+    "source_url": "https://www.hackread.com/fake-brave-browser-website-malware-google-ads/",
+    "summary": "Punycode bravė.com, promoted by Google ads, served a remote-access trojan."
+  },
+  {
+    "software": "ChatGPT desktop",
+    "official_domains": [
+      "openai.com",
+      "chatgpt.com"
+    ],
+    "impostor_domain": "chat-gpt-pc.online",
+    "classification": "reported-malicious",
+    "first_reported": "2023-02-22",
+    "source_name": "BleepingComputer (Cyble)",
+    "source_url": "https://www.bleepingcomputer.com/news/security/hackers-use-fake-chatgpt-apps-to-push-windows-android-malware/",
+    "summary": "Fake ChatGPT Windows client download delivering Redline/Lumma stealers."
+  },
+  {
+    "software": "ChatGPT desktop",
+    "official_domains": [
+      "openai.com",
+      "chatgpt.com"
+    ],
+    "impostor_domain": "chatgpt-go.online",
+    "classification": "reported-malicious",
+    "first_reported": "2023-02-22",
+    "source_name": "BleepingComputer (Cyble)",
+    "source_url": "https://www.bleepingcomputer.com/news/security/hackers-use-fake-chatgpt-apps-to-push-windows-android-malware/",
+    "summary": "Distributes a clipboard stealer and Aurora stealer."
+  },
+  {
+    "software": "ChatGPT desktop",
+    "official_domains": [
+      "openai.com",
+      "chatgpt.com"
+    ],
+    "impostor_domain": "openai-pc-pro.online",
+    "classification": "reported-malicious",
+    "first_reported": "2023-02-22",
+    "source_name": "BleepingComputer (Cyble)",
+    "source_url": "https://www.bleepingcomputer.com/news/security/hackers-use-fake-chatgpt-apps-to-push-windows-android-malware/",
+    "summary": "Fake OpenAI PC client dropping malware."
+  },
+  {
+    "software": "ChatGPT desktop",
+    "official_domains": [
+      "openai.com",
+      "chatgpt.com"
+    ],
+    "impostor_domain": "openew.app",
+    "classification": "reported-malicious",
+    "first_reported": "2026-05-28",
+    "source_name": "Malwarebytes",
+    "source_url": "https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-chatgpt-download-site-infects-windows-and-mac-users-with-malware",
+    "summary": "Fake ChatGPT download site: a Windows loader, and Odyssey Stealer on macOS."
+  },
+  {
+    "software": "Claude desktop",
+    "official_domains": [
+      "claude.ai",
+      "claude.com",
+      "anthropic.com"
+    ],
+    "impostor_domain": "claude.ai.download-app.us",
+    "classification": "reported-malicious",
+    "first_reported": "2026-07-23",
+    "source_name": "Help Net Security (Huntress research)",
+    "source_url": "https://www.helpnetsecurity.com/2026/07/23/anthropic-claude-artifacts-download-malware/",
+    "summary": "Spoofed download domain serving a fake ClaudeDesktop.exe via Bing ads."
+  },
+  {
+    "software": "Claude desktop",
+    "official_domains": [
+      "claude.ai",
+      "claude.com",
+      "anthropic.com"
+    ],
+    "impostor_domain": "downloading-api.it.com",
+    "classification": "reported-malicious",
+    "first_reported": "2026-07-23",
+    "source_name": "Help Net Security (Huntress research)",
+    "source_url": "https://www.helpnetsecurity.com/2026/07/23/anthropic-claude-artifacts-download-malware/",
+    "summary": "Later spoofed domain in the same fake Claude download campaign."
+  },
+  {
+    "software": "CPU-Z (CPUID)",
+    "official_domains": [
+      "cpuid.com"
+    ],
+    "impostor_domain": "workspace-app.online",
+    "classification": "reported-malicious",
+    "first_reported": "2023-11-09",
+    "source_name": "The Hacker News (Malwarebytes research)",
+    "source_url": "https://thehackernews.com/2023/11/new-malvertising-campaign-uses-fake.html",
+    "summary": "Fake news portal reached via Google ads served a trojanized CPU-Z with FakeBat/RedLine."
+  },
+  {
+    "software": "DeepSeek",
+    "official_domains": [
+      "deepseek.com"
+    ],
+    "impostor_domain": "app.deapseek.com",
+    "classification": "reported-malicious",
+    "first_reported": "2025-03-06",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com/backdoors-and-stealers-prey-on-deepseek-and-grok/115801/",
+    "summary": "Typosquat (deapseek) fake DeepSeek app domain."
+  },
+  {
+    "software": "DeepSeek",
+    "official_domains": [
+      "deepseek.com"
+    ],
+    "impostor_domain": "deepseek-ai-soft.com",
+    "classification": "reported-malicious",
+    "first_reported": "2025-03-06",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com/backdoors-and-stealers-prey-on-deepseek-and-grok/115801/",
+    "summary": "Fake DeepSeek software distribution domain."
+  },
+  {
+    "software": "DeepSeek",
+    "official_domains": [
+      "deepseek.com"
+    ],
+    "impostor_domain": "deepseek-pc-ai.com",
+    "classification": "reported-malicious",
+    "first_reported": "2025-03-06",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com/backdoors-and-stealers-prey-on-deepseek-and-grok/115801/",
+    "summary": "Fake DeepSeek PC client distribution domain."
+  },
+  {
+    "software": "DeepSeek",
+    "official_domains": [
+      "deepseek.com"
+    ],
+    "impostor_domain": "r1-deepseek.net",
+    "classification": "reported-malicious",
+    "first_reported": "2025-03-06",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com/backdoors-and-stealers-prey-on-deepseek-and-grok/115801/",
+    "summary": "Fake DeepSeek site offering a Windows client; DeepSeek has no official Windows client."
+  },
+  {
+    "software": "DeepSeek",
+    "official_domains": [
+      "deepseek.com"
+    ],
+    "impostor_domain": "v3-deepseek.com",
+    "classification": "reported-malicious",
+    "first_reported": "2025-03-06",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com/backdoors-and-stealers-prey-on-deepseek-and-grok/115801/",
+    "summary": "Fake DeepSeek domain distributing stealers and backdoors."
+  },
+  {
+    "software": "DeepSeek / Ollama / LM Studio",
+    "official_domains": [
+      "deepseek.com",
+      "ollama.com",
+      "lmstudio.ai"
+    ],
+    "impostor_domain": "deepseek-platform.com",
+    "classification": "reported-malicious",
+    "first_reported": "2025-06",
+    "source_name": "Kaspersky",
+    "source_url": "https://me-en.kaspersky.com/about/press-releases/new-malware-posing-as-an-ai-assistant-steals-user-data",
+    "summary": "Ad-promoted fake DeepSeek site bundled Ollama/LM Studio installers with BrowserVenom."
+  },
+  {
+    "software": "FileZilla",
+    "official_domains": [
+      "filezilla-project.org"
+    ],
+    "impostor_domain": "filezilla-project.live",
+    "classification": "reported-malicious",
+    "first_reported": "2026-03-02",
+    "source_name": "Malwarebytes",
+    "source_url": "https://www.malwarebytes.com/blog/threat-intel/2026/03/a-fake-filezilla-site-hosts-a-malicious-download",
+    "summary": "Lookalike hosts a FileZilla 3.69.5 archive with a malicious version.dll."
+  },
+  {
+    "software": "GIMP",
+    "official_domains": [
+      "gimp.org"
+    ],
+    "impostor_domain": "gilimp.org",
+    "classification": "reported-malicious",
+    "first_reported": "2022-11-01",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com/news/security/google-ad-for-gimporg-served-info-stealing-malware-via-lookalike-site/",
+    "summary": "Google ad showing GIMP.org led to a lookalike serving a Vidar-laden Setup.exe."
+  },
+  {
+    "software": "GIMP",
+    "official_domains": [
+      "gimp.org"
+    ],
+    "impostor_domain": "gimp.monster",
+    "classification": "reported-malicious",
+    "first_reported": "2022-11-01",
+    "source_name": "BleepingComputer",
+    "source_url": "https://www.bleepingcomputer.com/news/security/google-ad-for-gimporg-served-info-stealing-malware-via-lookalike-site/",
+    "summary": "Another domain in the same fake-GIMP malvertising campaign."
+  },
+  {
+    "software": "HandBrake",
+    "official_domains": [
+      "handbrake.fr"
+    ],
+    "impostor_domain": "handbrake.biz",
+    "classification": "reported-malicious",
+    "first_reported": "2017-05",
+    "source_name": "Malwarebytes",
+    "source_url": "https://www.malwarebytes.com/blog/news/2017/05/handbrake-hacked-to-drop-new-variant-of-proton-malware",
+    "summary": "Malware in a hacked HandBrake mirror called home to the look-alike handbrake.biz.",
+    "note": "Look-alike command server, not a fake download site."
+  },
+  {
+    "software": "KeePass",
+    "official_domains": [
+      "keepass.info"
+    ],
+    "impostor_domain": "keegass.com",
+    "classification": "reported-malicious",
+    "first_reported": "2025-05-19",
+    "source_name": "BleepingComputer (WithSecure research)",
+    "source_url": "https://www.bleepingcomputer.com/news/security/fake-keepass-password-manager-leads-to-esxi-ransomware-attack/",
+    "summary": "Typosquatting domain used to distribute trojanized KeePass installers."
+  },
+  {
+    "software": "KeePass",
+    "official_domains": [
+      "keepass.info"
+    ],
+    "impostor_domain": "keepass.me",
+    "classification": "reported-malicious",
+    "first_reported": "2025-05-19",
+    "source_name": "BleepingComputer (WithSecure research)",
+    "source_url": "https://www.bleepingcomputer.com/news/security/fake-keepass-password-manager-leads-to-esxi-ransomware-attack/",
+    "summary": "Typosquatting domain used to distribute trojanized KeePass installers."
+  },
+  {
+    "software": "KeePass",
+    "official_domains": [
+      "keepass.info"
+    ],
+    "impostor_domain": "keepasstacking.site",
+    "classification": "reported-malicious",
+    "first_reported": "2023-10-18",
+    "source_name": "Malwarebytes",
+    "source_url": "https://www.malwarebytes.com/blog/threat-intel/2023/10/clever-malvertising-attack-uses-punycode-to-look-like-legitimate-website",
+    "summary": "Redirect domain in the KeePass malvertising chain.",
+    "note": "Redirect hop, not the landing clone."
+  },
+  {
+    "software": "KeePass",
+    "official_domains": [
+      "keepass.info"
+    ],
+    "impostor_domain": "keeppaswrd.com",
+    "classification": "reported-malicious",
+    "first_reported": "2025-05-19",
+    "source_name": "BleepingComputer (WithSecure research)",
+    "source_url": "https://www.bleepingcomputer.com/news/security/fake-keepass-password-manager-leads-to-esxi-ransomware-attack/",
+    "summary": "Typosquat distributing trojanized KeePass (KeeLoader) leading to Cobalt Strike and ransomware."
+  },
+  {
+    "software": "KeePass",
+    "official_domains": [
+      "keepass.info"
+    ],
+    "impostor_domain": "xn--eepass-vbb.info",
+    "display": "ķeepass.info",
+    "classification": "reported-malicious",
+    "first_reported": "2023-10-18",
+    "source_name": "Malwarebytes",
+    "source_url": "https://www.malwarebytes.com/blog/threat-intel/2023/10/clever-malvertising-attack-uses-punycode-to-look-like-legitimate-website",
+    "summary": "Punycode domain rendering as ķeepass.info served a signed MSIX delivering FakeBat."
+  },
+  {
+    "software": "Krita",
+    "official_domains": [
+      "krita.org"
+    ],
+    "impostor_domain": "krita.app",
+    "classification": "reported-malicious",
+    "first_reported": "2021-08-23",
+    "source_name": "Krita Foundation",
+    "source_url": "https://krita.org/en/posts/2021/warning-scam-mails-about-krita-and-youtube-coming-from-krita-io/",
+    "summary": "Named alongside krita.io as a scam sender domain.",
+    "note": "Phishing email domain."
+  },
+  {
+    "software": "Krita",
+    "official_domains": [
+      "krita.org"
+    ],
+    "impostor_domain": "krita.io",
+    "classification": "reported-malicious",
+    "first_reported": "2021-08-23",
+    "source_name": "Krita Foundation",
+    "source_url": "https://krita.org/en/posts/2021/warning-scam-mails-about-krita-and-youtube-coming-from-krita-io/",
+    "summary": "Krita says mail from krita.io is a scam and replies lead to ransomware.",
+    "note": "Phishing email domain, not a download site."
+  },
+  {
+    "software": "LibreOffice",
+    "official_domains": [
+      "libreoffice.org"
+    ],
+    "impostor_domain": "lidraofflce.com",
+    "classification": "reported-malicious",
+    "first_reported": "2023-01-18",
+    "source_name": "Malware-Traffic-Analysis.net (Brad Duncan)",
+    "source_url": "https://malware-traffic-analysis.net/2023/01/18/index.html",
+    "summary": "Associated fake LibreOffice domain in the same IcedID chain."
+  },
+  {
+    "software": "LibreOffice",
+    "official_domains": [
+      "libreoffice.org"
+    ],
+    "impostor_domain": "llbroofice.com",
+    "classification": "reported-malicious",
+    "first_reported": "2023-01-18",
+    "source_name": "Malware-Traffic-Analysis.net (Brad Duncan)",
+    "source_url": "https://malware-traffic-analysis.net/2023/01/18/index.html",
+    "summary": "Associated fake LibreOffice domain in the same IcedID chain."
+  },
+  {
+    "software": "LibreOffice",
+    "official_domains": [
+      "libreoffice.org"
+    ],
+    "impostor_domain": "wvv-llbreofflce.top",
+    "classification": "reported-malicious",
+    "first_reported": "2023-01-18",
+    "source_name": "Malware-Traffic-Analysis.net (Brad Duncan)",
+    "source_url": "https://malware-traffic-analysis.net/2023/01/18/index.html",
+    "summary": "Google ad led to a fake LibreOffice page delivering IcedID, then Cobalt Strike."
+  },
+  {
+    "software": "MSI Afterburner",
+    "official_domains": [
+      "msi.com"
+    ],
+    "impostor_domain": "afterburner-software.org",
+    "classification": "reported-malicious",
+    "first_reported": "2023-03-09",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com/malvertising-through-search-engines/108996/",
+    "summary": "Malvertising domain impersonating MSI Afterburner."
+  },
+  {
+    "software": "MSI Afterburner",
+    "official_domains": [
+      "msi.com"
+    ],
+    "impostor_domain": "msi-afterburner--download.site",
+    "classification": "reported-malicious",
+    "first_reported": "2022-11-23",
+    "source_name": "BleepingComputer (Cyble research)",
+    "source_url": "https://www.bleepingcomputer.com/news/security/fake-msi-afterburner-targets-windows-gamers-with-miners-info-stealers/",
+    "summary": "Fake Afterburner site pushing an XMR miner plus RedLine stealer."
+  },
+  {
+    "software": "MSI Afterburner",
+    "official_domains": [
+      "msi.com"
+    ],
+    "impostor_domain": "msi-afterburner-download.site",
+    "classification": "reported-malicious",
+    "first_reported": "2022-11-23",
+    "source_name": "BleepingComputer (Cyble research)",
+    "source_url": "https://www.bleepingcomputer.com/news/security/fake-msi-afterburner-targets-windows-gamers-with-miners-info-stealers/",
+    "summary": "One of 50+ sites impersonating MSI Afterburner."
+  },
+  {
+    "software": "MSI Afterburner",
+    "official_domains": [
+      "msi.com"
+    ],
+    "impostor_domain": "msi-afterburner-download.tech",
+    "classification": "reported-malicious",
+    "first_reported": "2022-11-23",
+    "source_name": "BleepingComputer (Cyble research)",
+    "source_url": "https://www.bleepingcomputer.com/news/security/fake-msi-afterburner-targets-windows-gamers-with-miners-info-stealers/",
+    "summary": "One of 50+ sites impersonating MSI Afterburner."
+  },
+  {
+    "software": "MSI Afterburner",
+    "official_domains": [
+      "msi.com"
+    ],
+    "impostor_domain": "msi-afterburnerr.com",
+    "classification": "reported-malicious",
+    "first_reported": "2022-11-23",
+    "source_name": "BleepingComputer (Cyble research)",
+    "source_url": "https://www.bleepingcomputer.com/news/security/fake-msi-afterburner-targets-windows-gamers-with-miners-info-stealers/",
+    "summary": "Typosquat impersonating MSI Afterburner."
+  },
+  {
+    "software": "MSI Afterburner",
+    "official_domains": [
+      "msi.com"
+    ],
+    "impostor_domain": "mslafterburners.com",
+    "classification": "reported-malicious",
+    "first_reported": "2022-11-23",
+    "source_name": "BleepingComputer (Cyble research)",
+    "source_url": "https://www.bleepingcomputer.com/news/security/fake-msi-afterburner-targets-windows-gamers-with-miners-info-stealers/",
+    "summary": "Typosquat (msl for msi) distributing a miner and RedLine."
+  },
+  {
+    "software": "Notepad++",
+    "official_domains": [
+      "notepad-plus-plus.org"
+    ],
+    "impostor_domain": "notepad.plus",
+    "classification": "unofficial-warned",
+    "first_reported": "2024-04-03",
+    "source_name": "Notepad++ (Don Ho)",
+    "source_url": "https://notepad-plus-plus.org/news/help-to-take-down-parasite-site/",
+    "summary": "Parasite copycat site diverting traffic from the official site; pages carry malicious ads."
+  },
+  {
+    "software": "Notepad++",
+    "official_domains": [
+      "notepad-plus-plus.org"
+    ],
+    "impostor_domain": "notepadxtreme.com",
+    "classification": "reported-malicious",
+    "first_reported": "2023-10",
+    "source_name": "Malwarebytes",
+    "source_url": "https://www.malwarebytes.com/?p=93825",
+    "summary": "Domain hosts a fake Notepad++ site used to distribute malware; blocked as Trojan."
+  },
+  {
+    "software": "OBS Studio",
+    "official_domains": [
+      "obsproject.com"
+    ],
+    "impostor_domain": "project-obs.com",
+    "classification": "reported-malicious",
+    "first_reported": "2023-03-09",
+    "source_name": "Kaspersky Securelist",
+    "source_url": "https://securelist.com/malvertising-through-search-engines/108996/",
+    "summary": "Malvertising domain impersonating OBS Studio used to deliver stealers."
+  },
+  {
+    "software": "OBS Studio",
+    "official_domains": [
+      "obsproject.com"
+    ],
+    "impostor_domain": "project-obs.org",
+    "classification": "reported-malicious",
+    "first_reported": "2022-12-08",
+    "source_name": "OBS Project forum (user report, admin responded)",
+    "source_url": "https://obsproject.com/forum/threads/google-ad-serving-fake-obs-website-with-malware.162235",
+    "summary": "Google ad led to fake OBS site serving malware; admin advised wiping and reinstalling."
+  },
+  {
+    "software": "OrcaSlicer",
+    "official_domains": [
+      "orcaslicer.com",
+      "github.com/OrcaSlicer/OrcaSlicer"
+    ],
+    "impostor_domain": "orca-slicer.com",
+    "classification": "unofficial-warned",
+    "source_name": "OrcaSlicer GitHub README",
+    "source_url": "https://github.com/OrcaSlicer/OrcaSlicer",
+    "summary": "Named by the project as a clickbait site pretending to be the official one."
+  },
+  {
+    "software": "OrcaSlicer",
+    "official_domains": [
+      "orcaslicer.com",
+      "github.com/OrcaSlicer/OrcaSlicer"
+    ],
+    "impostor_domain": "orcaslicer.net",
+    "classification": "unofficial-warned",
+    "source_name": "OrcaSlicer GitHub README",
+    "source_url": "https://github.com/OrcaSlicer/OrcaSlicer",
+    "summary": "Not official; the project warns it could redirect download links to harmful sources."
+  },
+  {
+    "software": "PuTTY",
+    "official_domains": [
+      "chiark.greenend.org.uk"
+    ],
+    "impostor_domain": "puttty.org",
+    "classification": "reported-malicious",
+    "first_reported": "2024-05-13",
+    "source_name": "Rapid7",
+    "source_url": "https://www.rapid7.com/blog/post/2024/05/13/ongoing-malvertising-campaign-leads-to-ransomware",
+    "summary": "Typosquatted domain from search ads delivering trojanized PuTTY, leading to ransomware attempts."
+  },
+  {
+    "software": "PuTTY",
+    "official_domains": [
+      "chiark.greenend.org.uk"
+    ],
+    "impostor_domain": "putty.bet",
+    "classification": "reported-malicious",
+    "first_reported": "2025-07-07",
+    "source_name": "The Hacker News (Arctic Wolf research)",
+    "source_url": "https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html",
+    "summary": "Bogus PuTTY site in an SEO-poisoning and malvertising campaign."
+  },
+  {
+    "software": "PuTTY",
+    "official_domains": [
+      "chiark.greenend.org.uk"
+    ],
+    "impostor_domain": "putty.org",
+    "classification": "unofficial-warned",
+    "source_name": "PuTTY FAQ A.9.1 (Simon Tatham)",
+    "source_url": "https://www.chiark.greenend.org.uk/~sgtatham/putty/faq.html",
+    "summary": "The PuTTY author says putty.org is not run by the PuTTY team.",
+    "note": "No malware claim; the FAQ says it is run by someone else."
+  },
+  {
+    "software": "PuTTY",
+    "official_domains": [
+      "chiark.greenend.org.uk"
+    ],
+    "impostor_domain": "putty.run",
+    "classification": "reported-malicious",
+    "first_reported": "2025-07-07",
+    "source_name": "The Hacker News (Arctic Wolf research)",
+    "source_url": "https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html",
+    "summary": "Bogus PuTTY site in an SEO-poisoning and malvertising campaign."
+  },
+  {
+    "software": "PuTTY",
+    "official_domains": [
+      "chiark.greenend.org.uk"
+    ],
+    "impostor_domain": "puttyy.org",
+    "classification": "reported-malicious",
+    "first_reported": "2024-05-13",
+    "source_name": "Rapid7",
+    "source_url": "https://www.rapid7.com/blog/post/2024/05/13/ongoing-malvertising-campaign-leads-to-ransomware",
+    "summary": "Typosquatted PuTTY domain in the malvertising campaign."
+  },
+  {
+    "software": "PuTTY",
+    "official_domains": [
+      "chiark.greenend.org.uk"
+    ],
+    "impostor_domain": "putyy.org",
+    "classification": "reported-malicious",
+    "first_reported": "2024-05-13",
+    "source_name": "Rapid7",
+    "source_url": "https://www.rapid7.com/blog/post/2024/05/13/ongoing-malvertising-campaign-leads-to-ransomware",
+    "summary": "Typosquatted PuTTY domain in the malvertising campaign."
+  },
+  {
+    "software": "PuTTY",
+    "official_domains": [
+      "chiark.greenend.org.uk"
+    ],
+    "impostor_domain": "puutty.org",
+    "classification": "reported-malicious",
+    "first_reported": "2024-05-13",
+    "source_name": "Rapid7",
+    "source_url": "https://www.rapid7.com/blog/post/2024/05/13/ongoing-malvertising-campaign-leads-to-ransomware",
+    "summary": "Typosquatted PuTTY domain in the malvertising campaign."
+  },
+  {
+    "software": "PuTTY",
+    "official_domains": [
+      "chiark.greenend.org.uk"
+    ],
+    "impostor_domain": "updaterputty.com",
+    "classification": "reported-malicious",
+    "first_reported": "2025-07-07",
+    "source_name": "The Hacker News (Arctic Wolf research)",
+    "source_url": "https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html",
+    "summary": "Bogus site hosting trojanized PuTTY that installs the Oyster/Broomstick backdoor."
+  },
+  {
+    "software": "PuTTY",
+    "official_domains": [
+      "chiark.greenend.org.uk"
+    ],
+    "impostor_domain": "zephyrhype.com",
+    "classification": "reported-malicious",
+    "first_reported": "2025-07-07",
+    "source_name": "The Hacker News (Arctic Wolf research)",
+    "source_url": "https://thehackernews.com/2025/07/seo-poisoning-campaign-targets-8500.html",
+    "summary": "Listed among bogus websites hosting trojanized PuTTY.",
+    "note": "Not a look-alike name."
+  },
+  {
+    "software": "Signal (Android)",
+    "official_domains": [
+      "signal.org"
+    ],
+    "impostor_domain": "signalplus.org",
+    "classification": "reported-malicious",
+    "first_reported": "2023-08-30",
+    "source_name": "ESET WeLiveSecurity",
+    "source_url": "https://www.welivesecurity.com/en/eset-research/badbazaar-espionage-tool-targets-android-users-trojanized-signal-telegram-apps/",
+    "summary": "Site offering a trojanized Signal app that spies via device linking.",
+    "note": "Android, not desktop."
+  },
+  {
+    "software": "Telegram (Android)",
+    "official_domains": [
+      "telegram.org"
+    ],
+    "impostor_domain": "flygram.org",
+    "classification": "reported-malicious",
+    "first_reported": "2023-08-30",
+    "source_name": "ESET WeLiveSecurity",
+    "source_url": "https://www.welivesecurity.com/en/eset-research/badbazaar-espionage-tool-targets-android-users-trojanized-signal-telegram-apps/",
+    "summary": "Site distributing a trojanized Telegram app with BadBazaar spyware.",
+    "note": "Android, not desktop."
+  },
+  {
+    "software": "Telegram Desktop",
+    "official_domains": [
+      "telegram.org",
+      "desktop.telegram.org"
+    ],
+    "impostor_domain": "tejlegram.com",
+    "classification": "reported-malicious",
+    "first_reported": "2026-03-17",
+    "source_name": "K7 Security Labs",
+    "source_url": "https://labs.k7computing.com/?p=30310",
+    "summary": "Additional typosquatted Telegram domain in the same campaign."
+  },
+  {
+    "software": "Telegram Desktop",
+    "official_domains": [
+      "telegram.org",
+      "desktop.telegram.org"
+    ],
+    "impostor_domain": "telefgram.com",
+    "classification": "reported-malicious",
+    "first_reported": "2026-03-17",
+    "source_name": "K7 Security Labs",
+    "source_url": "https://labs.k7computing.com/?p=30310",
+    "summary": "Additional typosquatted Telegram domain in the same campaign."
+  },
+  {
+    "software": "Telegram Desktop",
+    "official_domains": [
+      "telegram.org",
+      "desktop.telegram.org"
+    ],
+    "impostor_domain": "telegraac.com",
+    "classification": "reported-malicious",
+    "source_name": "Cyble",
+    "source_url": "https://cyble.com/blog/fake-telegram-site-delivering-rat-aimed-at-chinese-users/",
+    "summary": "Fake Telegram site serving an MSI installer that deploys a RAT."
+  },
+  {
+    "software": "Telegram Desktop",
+    "official_domains": [
+      "telegram.org",
+      "desktop.telegram.org"
+    ],
+    "impostor_domain": "telegrgam.com",
+    "classification": "reported-malicious",
+    "first_reported": "2026-03-17",
+    "source_name": "K7 Security Labs",
+    "source_url": "https://labs.k7computing.com/?p=30310",
+    "summary": "Typosquatted Telegram download page serving a malicious loader."
+  },
+  {
+    "software": "VLC media player",
+    "official_domains": [
+      "videolan.org"
+    ],
+    "impostor_domain": "vlc.de",
+    "classification": "reported-malicious",
+    "first_reported": "2022-11-23",
+    "source_name": "GIGAZINE (quoting VideoLAN president Jean-Baptiste Kempf)",
+    "source_url": "https://gigazine.net/gsc_news/en/20221125-google-vlc-fake-page-refuses-take-down",
+    "summary": "Kempf called vlc.de one of the most vicious fakes, pushing spyware/adware/rootkits."
+  },
+  {
+    "software": "WinRAR",
+    "official_domains": [
+      "win-rar.com",
+      "rarlab.com"
+    ],
+    "impostor_domain": "win-rar.co",
+    "classification": "reported-malicious",
+    "first_reported": "2024-08-05",
+    "source_name": "SonicWall Capture Labs",
+    "source_url": "https://www.sonicwall.com/blog/beware-of-fake-winrar-websites-malware-hosted-on-github",
+    "summary": "Typosquatted win-rar.co delivers zx.ps1 leading to ransomware, miner and stealer hosted on GitHub."
+  },
+  {
+    "software": "WinSCP",
+    "official_domains": [
+      "winscp.net"
+    ],
+    "impostor_domain": "vvinscp.net",
+    "classification": "reported-malicious",
+    "first_reported": "2024-05-13",
+    "source_name": "Rapid7",
+    "source_url": "https://www.rapid7.com/blog/post/2024/05/13/ongoing-malvertising-campaign-leads-to-ransomware",
+    "summary": "vv-for-w typosquat cloning the WinSCP site."
+  },
+  {
+    "software": "WinSCP",
+    "official_domains": [
+      "winscp.net"
+    ],
+    "impostor_domain": "winnscp.net",
+    "classification": "reported-malicious",
+    "first_reported": "2024-05-13",
+    "source_name": "Rapid7",
+    "source_url": "https://www.rapid7.com/blog/post/2024/05/13/ongoing-malvertising-campaign-leads-to-ransomware",
+    "summary": "Typosquatted WinSCP domain in the malvertising campaign."
+  },
+  {
+    "software": "WinSCP",
+    "official_domains": [
+      "winscp.net"
+    ],
+    "impostor_domain": "winsccp.com",
+    "classification": "reported-malicious",
+    "first_reported": "2023-07-01",
+    "source_name": "BleepingComputer (Trend Micro research)",
+    "source_url": "https://www.bleepingcomputer.com/news/security/blackcat-ransomware-pushes-cobalt-strike-via-winscp-search-ads/",
+    "summary": "BlackCat/ALPHV WinSCP clone pushing an ISO with Cobalt Strike-linked malware."
+  },
+  {
+    "software": "WinSCP",
+    "official_domains": [
+      "winscp.net"
+    ],
+    "impostor_domain": "wnscp.net",
+    "classification": "reported-malicious",
+    "first_reported": "2024-05-13",
+    "source_name": "Rapid7",
+    "source_url": "https://www.rapid7.com/blog/post/2024/05/13/ongoing-malvertising-campaign-leads-to-ransomware",
+    "summary": "Typosquatted WinSCP domain from search ads distributing trojanized installers."
+  },
+  {
+    "software": "Zoom",
+    "official_domains": [
+      "zoom.us"
+    ],
+    "impostor_domain": "us06webzoomus.pro",
+    "classification": "reported-malicious",
+    "first_reported": "2024-03",
+    "source_name": "The Hacker News (Zscaler ThreatLabz research)",
+    "source_url": "https://thehackernews.com/2024/03/watch-out-for-spoofed-zoom-skype-google.html",
+    "summary": "Fake Zoom meeting site distributing DCRat/NjRAT to Windows users."
+  },
+  {
+    "software": "Zoom",
+    "official_domains": [
+      "zoom.us"
+    ],
+    "impostor_domain": "zoom-download.fun",
+    "classification": "reported-malicious",
+    "first_reported": "2022-09-19",
+    "source_name": "Cyble",
+    "source_url": "https://cyble.com/blog/new-malware-campaign-targets-zoom-users/",
+    "summary": "Fake Zoom site spreading Vidar Stealer."
+  },
+  {
+    "software": "Zoom",
+    "official_domains": [
+      "zoom.us"
+    ],
+    "impostor_domain": "zoom-download.host",
+    "classification": "reported-malicious",
+    "first_reported": "2022-09-19",
+    "source_name": "Cyble",
+    "source_url": "https://cyble.com/blog/new-malware-campaign-targets-zoom-users/",
+    "summary": "Fake Zoom site spreading Vidar Stealer."
+  },
+  {
+    "software": "Zoom",
+    "official_domains": [
+      "zoom.us"
+    ],
+    "impostor_domain": "zoom-download.space",
+    "classification": "reported-malicious",
+    "first_reported": "2022-09-19",
+    "source_name": "Cyble",
+    "source_url": "https://cyble.com/blog/new-malware-campaign-targets-zoom-users/",
+    "summary": "Fake Zoom site spreading Vidar Stealer."
+  },
+  {
+    "software": "Zoom",
+    "official_domains": [
+      "zoom.us"
+    ],
+    "impostor_domain": "zoomus.host",
+    "classification": "reported-malicious",
+    "first_reported": "2022-09-19",
+    "source_name": "Cyble",
+    "source_url": "https://cyble.com/blog/new-malware-campaign-targets-zoom-users/",
+    "summary": "Fake Zoom site spreading Vidar Stealer."
+  },
+  {
+    "software": "Zoom",
+    "official_domains": [
+      "zoom.us"
+    ],
+    "impostor_domain": "zoomus.tech",
+    "classification": "reported-malicious",
+    "first_reported": "2022-09-19",
+    "source_name": "Cyble",
+    "source_url": "https://cyble.com/blog/new-malware-campaign-targets-zoom-users/",
+    "summary": "Fake Zoom site spreading Vidar Stealer."
+  },
+  {
+    "software": "Zoom",
+    "official_domains": [
+      "zoom.us"
+    ],
+    "impostor_domain": "zoomus.website",
+    "classification": "reported-malicious",
+    "first_reported": "2022-09-19",
+    "source_name": "Cyble",
+    "source_url": "https://cyble.com/blog/new-malware-campaign-targets-zoom-users/",
+    "summary": "Fake Zoom site spreading Vidar Stealer."
+  }
+]

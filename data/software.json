@@ -1,0 +1,3686 @@
+[
+    {
+        "id": "7-zip",
+        "name": "7-Zip",
+        "publisher": "Igor Pavlov",
+        "category": "system-tools",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.7-zip.org",
+        "official_domain": "7-zip.org",
+        "download_page": "https://www.7-zip.org/download.html",
+        "source_repo": "https://github.com/ip7z/7zip",
+        "winget_id": "7zip.7zip",
+        "version": "26.03",
+        "released": "2026-09-03",
+        "license": "GNU LGPL (parts BSD-3-Clause; unRAR restriction)",
+        "files": [
+            {
+                "filename": "7z2603-x64.exe",
+                "build": "Windows x64 installer",
+                "size_mb": 1.6,
+                "sha256": "0859c524b8a63551848f0c246abddcb1d0b7b656b0fbfe879f8d85e61a9e6edd"
+            },
+            {
+                "filename": "7z2603.exe",
+                "build": "Windows x86 (32-bit) installer",
+                "size_mb": 1.3,
+                "sha256": "0f6ec2eda1f8c5dc4c267ee761c0dad8a9d5e8863e0c84b7ac026bc9625a1560"
+            },
+            {
+                "filename": "7z2603-arm64.exe",
+                "build": "Windows ARM64 installer",
+                "size_mb": 1.5,
+                "sha256": "e22ce71c11dcf503c448fe51e56f41830eb4e1344fa5c7731ae63bce533a8e8e"
+            },
+            {
+                "filename": "7z2603-x64.msi",
+                "build": "Windows x64 MSI",
+                "size_mb": 1.9,
+                "sha256": "c0680064d698a62dd4a5a47f403db356a6531a5473e4c4b1d090ea2590513926"
+            },
+            {
+                "filename": "7z2603-linux-x64.tar.xz",
+                "build": "Linux x64 console version (7zz)",
+                "size_mb": 1.5,
+                "sha256": "dc99eff5008f1ab79bd7084c68513701547a808a89502bf4133683535ab3c695"
+            },
+            {
+                "filename": "7z2603-mac.tar.xz",
+                "build": "macOS console version (7zz)",
+                "size_mb": 1.8,
+                "sha256": "5ca87677072c59f5602e5c49baa27d4694bacd2259b4e507f0094249d4281480"
+            }
+        ],
+        "known_impostors": [
+            {
+                "domain": "7zip.com",
+                "source": "https://sourceforge.net/p/sevenzip/support-requests/559/"
+            }
+        ],
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/7-zip/"
+    },
+    {
+        "id": "aimp",
+        "name": "AIMP",
+        "publisher": "Artem Izmaylov",
+        "category": "media-players",
+        "platforms": [
+            "android",
+            "linux",
+            "windows"
+        ],
+        "official_site": "https://www.aimp.ru",
+        "official_domain": "aimp.ru",
+        "download_page": "https://www.aimp.ru/?do=download&os=windows",
+        "winget_id": "AIMP.AIMP",
+        "version": "5.40.2727",
+        "released": "2026-09-08",
+        "license": "Freeware",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/aimp/"
+    },
+    {
+        "id": "apex-legends",
+        "name": "Apex Legends",
+        "publisher": "Respawn (published by Electronic Arts)",
+        "category": "games",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.ea.com/games/apex-legends/apex-legends",
+        "official_domain": "ea.com",
+        "download_page": "https://store.steampowered.com/app/1172470/",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/apex-legends/"
+    },
+    {
+        "id": "apple-music",
+        "name": "Apple Music",
+        "publisher": "Apple Inc.",
+        "category": "media-players",
+        "platforms": [
+            "android",
+            "iphone",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.apple.com/apple-music/",
+        "official_domain": "apple.com",
+        "download_page": "https://apps.apple.com/app/id1108187390",
+        "license": "Proprietary",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/apple-music/"
+    },
+    {
+        "id": "audacity",
+        "name": "Audacity",
+        "publisher": "Audacity Team (Muse Group & contributors)",
+        "category": "media-players",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.audacityteam.org",
+        "official_domain": "audacityteam.org",
+        "download_page": "https://www.audacityteam.org/download/windows/",
+        "source_repo": "https://github.com/audacity/audacity",
+        "winget_id": "Audacity.Audacity",
+        "version": "4.0.1",
+        "released": "2026-09-30",
+        "license": "GPL-3.0",
+        "files": [
+            {
+                "filename": "audacity-win-4.0.1-x86_64.msi",
+                "build": "Windows x64 MSI",
+                "size_mb": 47.49,
+                "sha256": "efb652bf04168f5d4893f28b7cefaaf5ef385d9251544540ac774e3bf54793a3"
+            },
+            {
+                "filename": "audacity-win-4.0.1-arm64.msi",
+                "build": "Windows ARM64 MSI (Windows 11 only)",
+                "size_mb": 36.49,
+                "sha256": "b6606d9bcb1a49254f1966c7edc68d78f7eadd04eebe7d4676350f32ca675f49"
+            },
+            {
+                "filename": "audacity-macOS-4.0.1-universal.dmg",
+                "build": "macOS Universal",
+                "size_mb": 87.74,
+                "sha256": "473db7ce0d846d2d45df97e8e83ff4c70fc835eff6bcc9e119d8eac34f979794"
+            },
+            {
+                "filename": "audacity-macOS-4.0.1-arm64.dmg",
+                "build": "macOS Apple Silicon",
+                "size_mb": 47.72,
+                "sha256": "278c8647b78c77af7f07dbd5e7d9bfc950bc14168047b65738716b61d12055ec"
+            },
+            {
+                "filename": "audacity-macOS-4.0.1-x86_64.dmg",
+                "build": "macOS Intel",
+                "size_mb": 51.81,
+                "sha256": "9794b0b3a3a795bdc097b411a5776ba59dc451cb1524f58c9714c30cca2564be"
+            },
+            {
+                "filename": "audacity-linux-4.0.1-x86_64.AppImage",
+                "build": "Linux x86_64 AppImage",
+                "size_mb": 70.34,
+                "sha256": "ca2f04f172124d1f18ac608749854c5d31f04ab266a758c348190c05d9b2087c"
+            },
+            {
+                "filename": "audacity-linux-4.0.1-aarch64.AppImage",
+                "build": "Linux ARM64 AppImage",
+                "size_mb": 67.39,
+                "sha256": "3abc517f26f00197eaac9c4e56b35dc53d8e933764b41077950e8526cd4aa075"
+            }
+        ],
+        "checked": "2026-09-30",
+        "details_url": "https://softwares-academy.com/software/audacity/"
+    },
+    {
+        "id": "avidemux",
+        "name": "Avidemux",
+        "publisher": "Mean (Avidemux project)",
+        "category": "video-editing",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://avidemux.sourceforge.net",
+        "official_domain": "avidemux.sourceforge.net",
+        "download_page": "https://avidemux.sourceforge.net/download.html",
+        "source_repo": "https://github.com/mean00/avidemux2",
+        "winget_id": "Avidemux.Avidemux",
+        "version": "2.8.1",
+        "released": "2022-09-23",
+        "license": "GPL-2.0",
+        "files": [
+            {
+                "filename": "Avidemux_2.8.1.VC++.64bits.exe",
+                "build": "Windows 64-bit installer",
+                "size_mb": 38.1,
+                "sha256": "dd962bc788d7d955b04e163e7e1a6620b573adc379bf2ea2a2c25585782b4dca"
+            },
+            {
+                "filename": "Avidemux_2.8.1v2_Monterey_Qt6.dmg",
+                "build": "macOS (Monterey, Qt6)",
+                "size_mb": 43.4,
+                "sha256": "b0b8890114172d531d138f6c1413f0393c0e5a87530168106a12d6b11ae44833"
+            },
+            {
+                "filename": "avidemux_2.8.1.appImage",
+                "build": "Linux 64-bit AppImage",
+                "size_mb": 42.9,
+                "sha256": "4e685fbad0b59d007c5a23ab5fd47948ea5979601e693521f7b842edd4d768a3"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/avidemux/"
+    },
+    {
+        "id": "bambu-studio",
+        "name": "Bambu Studio",
+        "publisher": "Bambu Lab",
+        "category": "3d-printing",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://bambulab.com/en/download/studio",
+        "official_domain": "bambulab.com",
+        "download_page": "https://github.com/bambulab/BambuStudio/releases/tag/v02.08.02.61",
+        "source_repo": "https://github.com/bambulab/BambuStudio",
+        "version": "02.08.02.61",
+        "released": "2026-08-21",
+        "license": "AGPL-3.0",
+        "files": [
+            {
+                "filename": "Bambu_Studio_win-v02.08.02.61-20260820225108.exe",
+                "build": "Windows installer",
+                "size_mb": 429.02,
+                "sha256": "8af94a386689f265d22fd420c6d9bc72d3da872cc2c28d025eef4dd6cd614823"
+            },
+            {
+                "filename": "Bambu_Studio_win-v02.08.02.61-20260820225108.zip",
+                "build": "Windows ZIP",
+                "size_mb": 473.53,
+                "sha256": "3faaa194a90a2e7defa39a6a63f5a654b8cdb762c6a98556cf771fba582229f5"
+            },
+            {
+                "filename": "Bambu_Studio_mac-v02.08.02.61-20260820225108.dmg",
+                "build": "macOS DMG",
+                "size_mb": 288.33,
+                "sha256": "cf648a95858fb630e1353c4987038df60d6caab693f18411fb95fb809f2d6926"
+            },
+            {
+                "filename": "BambuStudio_ubuntu24.04-v02.08.02.61-20260820225108.AppImage",
+                "build": "Linux AppImage (Ubuntu 24.04)",
+                "size_mb": 230.03,
+                "sha256": "d501b103fac5424513ec0e8d6bc145fb30719de2c7d94d7320d723740c81a7fd"
+            },
+            {
+                "filename": "BambuStudio_ubuntu22.04-v02.08.02.61-20260820225108.AppImage",
+                "build": "Linux AppImage (Ubuntu 22.04)",
+                "size_mb": 229.15,
+                "sha256": "69426a59682574591590f51c913d3889baa19252d1c8e9fcae2497eb0ed6bf92"
+            }
+        ],
+        "checked": "2026-10-03",
+        "details_url": "https://softwares-academy.com/software/bambu-studio/"
+    },
+    {
+        "id": "bazzite",
+        "name": "Bazzite",
+        "publisher": "Universal Blue (GitHub: ublue-os)",
+        "category": "system-tools",
+        "platforms": [
+            "linux"
+        ],
+        "official_site": "https://bazzite.gg/",
+        "official_domain": "bazzite.gg",
+        "download_page": "https://download.bazzite.gg/",
+        "source_repo": "https://github.com/ublue-os/bazzite",
+        "version": "44.20260921 (stable)",
+        "released": "2026-09-21",
+        "license": "Apache-2.0",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/bazzite/"
+    },
+    {
+        "id": "bitwarden",
+        "name": "Bitwarden",
+        "publisher": "Bitwarden Inc.",
+        "category": "system-tools",
+        "platforms": [
+            "android",
+            "iphone",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://bitwarden.com",
+        "official_domain": "bitwarden.com",
+        "download_page": "https://bitwarden.com/download/",
+        "source_repo": "https://github.com/bitwarden/clients",
+        "winget_id": "Bitwarden.Bitwarden",
+        "version": "2026.9.0",
+        "released": "2026-09-17",
+        "license": "GPL-3.0 (most client code); Bitwarden License v1.0 for some code",
+        "signer": "Bitwarden Inc.",
+        "files": [
+            {
+                "filename": "Bitwarden-Installer-2026.9.0.exe",
+                "build": "Windows installer from publisher GitHub release; digest matched locally",
+                "size_mb": 0.73,
+                "sha256": "6af475c43bea3e5578f6e441ac6d90e830e77c54e0707db738af9f0dc53f5180"
+            }
+        ],
+        "checked": "2026-09-30",
+        "details_url": "https://softwares-academy.com/software/bitwarden/"
+    },
+    {
+        "id": "blender",
+        "name": "Blender",
+        "publisher": "Blender Foundation",
+        "category": "graphics-design",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.blender.org",
+        "official_domain": "blender.org",
+        "download_page": "https://www.blender.org/download/",
+        "source_repo": "https://projects.blender.org/blender/blender",
+        "winget_id": "BlenderFoundation.Blender",
+        "version": "5.2.2",
+        "released": "2026-09-15",
+        "license": "GPL-3.0-or-later",
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/blender/"
+    },
+    {
+        "id": "brave",
+        "name": "Brave",
+        "publisher": "Brave Software, Inc.",
+        "category": "internet-browsers",
+        "platforms": [
+            "android",
+            "iphone",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://brave.com",
+        "official_domain": "brave.com",
+        "download_page": "https://brave.com/download/",
+        "source_repo": "https://github.com/brave/brave-browser",
+        "winget_id": "Brave.Brave",
+        "version": "1.96.60",
+        "released": "2026-09-30",
+        "license": "MPL-2.0",
+        "files": [
+            {
+                "filename": "BraveBrowserSetup.exe",
+                "build": "Windows online installer",
+                "size_mb": 1.22,
+                "sha256": "8f2c216e5d45048e24b49f8860a1ae2ed04a1d144ac3daae6291d7091468dc7a"
+            },
+            {
+                "filename": "BraveBrowserStandaloneSetup.exe",
+                "build": "Windows x64 offline installer",
+                "size_mb": 157.9,
+                "sha256": "9e5bc05e7220b5723a8ad1319d90f6e16a4d5a97a1f960172c45e893eb69e09f"
+            },
+            {
+                "filename": "BraveBrowserStandaloneSetupArm64.exe",
+                "build": "Windows ARM64 offline installer",
+                "size_mb": 162.39,
+                "sha256": "f1ea755aaabc5042350eebe711c67a3453e105044de146968f34ea7af50b1746"
+            },
+            {
+                "filename": "Brave-Browser-universal.dmg",
+                "build": "macOS universal (Intel and Apple silicon)",
+                "size_mb": 320.94,
+                "sha256": "f5dcc29b99aa9024b96b265346e07bb478d376401d95f2ff6404f494505a68e8"
+            },
+            {
+                "filename": "brave-browser_1.96.60_amd64.deb",
+                "build": "Linux x64 .deb",
+                "size_mb": 142.58,
+                "sha256": "1001479b991fb3fd279b8668b962fbaa37e9c55cba31b3116b06bd65905a8a8b"
+            }
+        ],
+        "checked": "2026-09-30",
+        "details_url": "https://softwares-academy.com/software/brave/"
+    },
+    {
+        "id": "call-of-duty-warzone",
+        "name": "Call of Duty: Warzone",
+        "publisher": "Infinity Ward, Raven Software and other Activision studios (published by Activision)",
+        "category": "games",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.callofduty.com/warzone",
+        "official_domain": "callofduty.com",
+        "download_page": "https://store.steampowered.com/app/1962663/",
+        "released": "2022-11-16",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/call-of-duty-warzone/"
+    },
+    {
+        "id": "chitubox-basic",
+        "name": "CHITUBOX Basic",
+        "publisher": "CBD-Tech (Shenzhen)",
+        "category": "3d-printing",
+        "platforms": [
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.chitubox.com/en/product/chitubox",
+        "official_domain": "chitubox.com",
+        "download_page": "https://www.chitubox.com/en/product/chitubox",
+        "version": "1.3.1",
+        "released": "2026-08-19",
+        "license": "Proprietary",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/chitubox-basic/"
+    },
+    {
+        "id": "counter-strike-2",
+        "name": "Counter-Strike 2",
+        "publisher": "Valve",
+        "category": "games",
+        "platforms": [
+            "linux",
+            "windows"
+        ],
+        "official_site": "https://www.counter-strike.net",
+        "official_domain": "counter-strike.net",
+        "download_page": "https://store.steampowered.com/app/730/CounterStrike_2/",
+        "license": "Free to play",
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/counter-strike-2/"
+    },
+    {
+        "id": "creality-print",
+        "name": "Creality Print",
+        "publisher": "Shenzhen Creality 3D Technology Co., Ltd.",
+        "category": "3d-printing",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.creality.com/pages/download-software",
+        "official_domain": "creality.com",
+        "download_page": "https://www.creality.com/pages/download-software",
+        "source_repo": "https://github.com/CrealityOfficial/CrealityPrint",
+        "version": "7.2.2.5483",
+        "released": "2026-09-06",
+        "license": "AGPL-3.0",
+        "files": [
+            {
+                "filename": "CrealityPrint_7.2.2.5483_Release.exe",
+                "build": "Windows installer (7.2.2.5483)",
+                "size_mb": 306.8,
+                "sha256": "d33fe413b48cb5bc16a2a05e57f2be55632c0fe4ebef1c8ec6c8859b348c4a1c"
+            },
+            {
+                "filename": "CrealityPrint-7.2.2.5483-macx-arm64-Release.dmg",
+                "build": "macOS Apple Silicon DMG (7.2.2.5483)",
+                "size_mb": 167.8,
+                "sha256": "86c611740afc797a3f55d1c7f3f1e34ce0c3bf55cf5bcc6b93febe32d5b7df63"
+            },
+            {
+                "filename": "CrealityPrint-7.2.2.5483-macx-x86_64-Release.dmg",
+                "build": "macOS Intel DMG (7.2.2.5483)",
+                "size_mb": 173.9,
+                "sha256": "3ca5e7d52da7dedd3c20af83adffa074ff4b01971701085ae64f91209d7932c9"
+            },
+            {
+                "filename": "CrealityPrint-V7.2.1.5476-x86_64-Release.AppImage",
+                "build": "Linux x86_64 AppImage (7.2.1.5476, latest Linux build)",
+                "size_mb": 173.4,
+                "sha256": "b28f66c25d0c6652ed6ae49d0766780f46a5b839b93ce1968e639823e1f6e2f3"
+            },
+            {
+                "filename": "CrealityPrint-Linux-flatpak_V7.2.1-Release_x86_64.flatpak",
+                "build": "Linux x86_64 Flatpak bundle (7.2.1, latest Linux build)",
+                "size_mb": 177.7,
+                "sha256": "9cad8cc96081beffefb054220cdd7d2c9516f39a108f7c08063f17ebc70f65c7"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/creality-print/"
+    },
+    {
+        "id": "darktable",
+        "name": "darktable",
+        "publisher": "The darktable team",
+        "category": "graphics-design",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.darktable.org",
+        "official_domain": "darktable.org",
+        "download_page": "https://www.darktable.org/install/",
+        "source_repo": "https://github.com/darktable-org/darktable",
+        "winget_id": "darktable.darktable",
+        "version": "5.6.1",
+        "released": "2026-08-27",
+        "license": "GPL-3.0",
+        "files": [
+            {
+                "filename": "darktable-5.6.1-win64.exe",
+                "build": "Windows x64 installer",
+                "size_mb": 133.1,
+                "sha256": "bb15a8e4d24c21097cfdef0a560920f7fa0c05dec93482448dd538f2be02d6c4"
+            },
+            {
+                "filename": "darktable-5.6.1-woa64.exe",
+                "build": "Windows on ARM installer",
+                "size_mb": 104.7,
+                "sha256": "b215de036ac2b5a7a1a5eaa98c4bd4e4d8b40a8d403e195d923c7541611f2e26"
+            },
+            {
+                "filename": "darktable-5.6.1-arm64.dmg",
+                "build": "macOS Apple Silicon (13.5+)",
+                "size_mb": 84.1,
+                "sha256": "155c25a48e06023eeeda3640f6f4fc7848bc1ad8e7384ba1d7b63098986fbeda"
+            },
+            {
+                "filename": "darktable-5.6.1-x86_64.dmg",
+                "build": "macOS Intel (13.5+)",
+                "size_mb": 89.7,
+                "sha256": "ab09e11d548a7028f7bacc2bc4549a272c4e8d385be0e38ecc9e7943914abe61"
+            },
+            {
+                "filename": "Darktable-5.6.1-x86_64.AppImage",
+                "build": "Linux x86_64 AppImage",
+                "size_mb": 170,
+                "sha256": "867ba61fca41d614e6650fd92d6e7968d8c56a1d1dd2bbc3aa06b52508694ed6"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/darktable/"
+    },
+    {
+        "id": "davinci-resolve",
+        "name": "DaVinci Resolve",
+        "publisher": "Blackmagic Design",
+        "category": "video-editing",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.blackmagicdesign.com/products/davinciresolve",
+        "official_domain": "blackmagicdesign.com",
+        "download_page": "https://www.blackmagicdesign.com/products/davinciresolve",
+        "version": "21.1",
+        "released": "2026-09-08",
+        "license": "Proprietary, free version (DaVinci Resolve Studio is paid)",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/davinci-resolve/"
+    },
+    {
+        "id": "decky-loader",
+        "name": "Decky Loader",
+        "publisher": "Steam Deck Homebrew (GitHub: SteamDeckHomebrew)",
+        "category": "gaming-tools",
+        "platforms": [
+            "linux"
+        ],
+        "official_site": "https://decky.xyz/",
+        "official_domain": "decky.xyz",
+        "download_page": "https://github.com/SteamDeckHomebrew/decky-loader",
+        "source_repo": "https://github.com/SteamDeckHomebrew/decky-loader",
+        "version": "3.2.9",
+        "released": "2026-09-15",
+        "license": "GPL-2.0",
+        "files": [
+            {
+                "filename": "PluginLoader",
+                "build": "Linux x86-64 loader binary (v3.2.9; the installer downloads this for you)",
+                "size_mb": 24.9,
+                "sha256": "0a5246db98f2df93a6685ac8230e0acfbfa6e91d99b41b8dbbf1f94c308dedce"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/decky-loader/"
+    },
+    {
+        "id": "destiny-2",
+        "name": "Destiny 2",
+        "publisher": "Bungie",
+        "category": "games",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.bungie.net/7/en/Destiny",
+        "official_domain": "bungie.net",
+        "download_page": "https://store.steampowered.com/app/1085660/",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/destiny-2/"
+    },
+    {
+        "id": "digikam",
+        "name": "digiKam",
+        "publisher": "The digiKam team (KDE)",
+        "category": "graphics-design",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.digikam.org",
+        "official_domain": "digikam.org",
+        "download_page": "https://www.digikam.org/download/",
+        "source_repo": "https://invent.kde.org/graphics/digikam",
+        "winget_id": "KDE.digiKam",
+        "version": "9.1.0",
+        "released": "2026-06-07",
+        "license": "GPL-2.0-or-later",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/digikam/"
+    },
+    {
+        "id": "discord",
+        "name": "Discord",
+        "publisher": "Discord Inc.",
+        "category": "communication",
+        "platforms": [
+            "android",
+            "iphone",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://discord.com",
+        "official_domain": "discord.com",
+        "download_page": "https://discord.com/download",
+        "winget_id": "Discord.Discord",
+        "license": "Proprietary (free)",
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/discord/"
+    },
+    {
+        "id": "ddu",
+        "name": "Display Driver Uninstaller (DDU)",
+        "publisher": "Ghislain Harvey (Wagnard), Wagnardsoft",
+        "category": "drivers-hardware",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.wagnardsoft.com/display-driver-uninstaller-ddu",
+        "official_domain": "wagnardsoft.com",
+        "download_page": "https://www.wagnardsoft.com/forums/viewtopic.php?t=5700",
+        "version": "18.1.6.0",
+        "released": "2026-09-15",
+        "license": "Free (no license name published on the download page)",
+        "signer": "Wagnardsoft",
+        "files": [
+            {
+                "filename": "DDU v18.1.6.0.exe",
+                "build": "Portable / self-extracting",
+                "size_mb": 1.3,
+                "sha256": "b65d6c153453559bd8dbc2277b2e17f1d463c8c513e51ad61223314ebfd6340c"
+            },
+            {
+                "filename": "DDU v18.1.6.0_setup.exe",
+                "build": "Installer",
+                "size_mb": 1.7,
+                "sha256": "9b2611ec6d5a9d8853936cc071cc4026c6cfe91beed956cd41cc81c0930acd47"
+            }
+        ],
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/ddu/"
+    },
+    {
+        "id": "dlss-swapper",
+        "name": "DLSS Swapper",
+        "publisher": "Brad Moore (GitHub: beeradmoore)",
+        "category": "gaming-tools",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://github.com/beeradmoore/dlss-swapper",
+        "official_domain": "github.com",
+        "download_page": "https://github.com/beeradmoore/dlss-swapper/releases/tag/v1.2.6.1",
+        "source_repo": "https://github.com/beeradmoore/dlss-swapper",
+        "winget_id": "beeradmoore.dlss-swapper",
+        "version": "1.2.6.1",
+        "released": "2026-08-26",
+        "license": "GPL-3.0",
+        "signer": "SignPath Foundation",
+        "files": [
+            {
+                "filename": "DLSS.Swapper-1.2.6.1-installer.exe",
+                "build": "Windows installer; measured hash/signature",
+                "size_mb": 114.9,
+                "sha256": "18cf2c7630b6d702a495a1ab9033f7e629d0fd3ee42bf5d797e905bc7807764c"
+            },
+            {
+                "filename": "DLSS.Swapper-1.2.6.1-portable.zip",
+                "build": "Portable ZIP; publisher metadata only",
+                "size_mb": 119.97,
+                "sha256": "78cf171ae54b0a045c772b839e14b071e8d2dc3f306758df2837809995103489"
+            }
+        ],
+        "checked": "2026-10-05",
+        "details_url": "https://softwares-academy.com/software/dlss-swapper/"
+    },
+    {
+        "id": "docker-desktop",
+        "name": "Docker Desktop",
+        "publisher": "Docker, Inc.",
+        "category": "developer-tools",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.docker.com/products/docker-desktop/",
+        "official_domain": "docker.com",
+        "download_page": "https://docs.docker.com/desktop/setup/install/windows-install/",
+        "winget_id": "Docker.DockerDesktop",
+        "version": "4.93.0",
+        "released": "2026-09-28",
+        "license": "Proprietary (Docker Subscription Service Agreement)",
+        "checked": "2026-09-30",
+        "details_url": "https://softwares-academy.com/software/docker-desktop/"
+    },
+    {
+        "id": "dota-2",
+        "name": "Dota 2",
+        "publisher": "Valve",
+        "category": "games",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.dota2.com",
+        "official_domain": "dota2.com",
+        "download_page": "https://store.steampowered.com/app/570/Dota_2/",
+        "license": "Free to play",
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/dota-2/"
+    },
+    {
+        "id": "epic-games-launcher",
+        "name": "Epic Games Launcher",
+        "publisher": "Epic Games, Inc.",
+        "category": "gaming-tools",
+        "platforms": [
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://store.epicgames.com",
+        "official_domain": "store.epicgames.com",
+        "download_page": "https://store.epicgames.com/en-US/download",
+        "winget_id": "EpicGames.EpicGamesLauncher",
+        "license": "Proprietary (free)",
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/epic-games-launcher/"
+    },
+    {
+        "id": "eve-online",
+        "name": "EVE Online",
+        "publisher": "Fenris Creations (formerly CCP Games)",
+        "category": "games",
+        "platforms": [
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.eveonline.com/",
+        "official_domain": "eveonline.com",
+        "download_page": "https://www.eveonline.com/download",
+        "winget_id": "CCPGames.EVEOnline",
+        "license": "Free to play (Alpha), optional subscription",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/eve-online/"
+    },
+    {
+        "id": "explorerpatcher",
+        "name": "ExplorerPatcher",
+        "publisher": "valinet and contributors (GitHub: valinet/ExplorerPatcher)",
+        "category": "system-tools",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://github.com/valinet/ExplorerPatcher",
+        "official_domain": "github.com",
+        "download_page": "https://github.com/valinet/ExplorerPatcher/releases/latest",
+        "source_repo": "https://github.com/valinet/ExplorerPatcher",
+        "winget_id": "valinet.ExplorerPatcher",
+        "version": "26100.8457.70.3",
+        "released": "2026-06-20",
+        "license": "GPL-2.0",
+        "files": [
+            {
+                "filename": "ep_setup.exe",
+                "build": "Windows x64 (Intel/AMD)",
+                "size_mb": 11.67,
+                "sha256": "8146db4d3a87201fb80ad1d3712ba8f56883e9a0811758bd39f62d73a9f2c586"
+            },
+            {
+                "filename": "ep_setup_arm64.exe",
+                "build": "Windows ARM64 (Snapdragon)",
+                "size_mb": 11.35,
+                "sha256": "382b00065cdee23bd707983149dd0caa8a7ee1ae7913bb07056a822c41bfe056"
+            }
+        ],
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/explorerpatcher/"
+    },
+    {
+        "id": "fancontrol",
+        "name": "Fan Control",
+        "publisher": "Rémi Mercier (GitHub: Rem0o)",
+        "category": "drivers-hardware",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://getfancontrol.com",
+        "official_domain": "getfancontrol.com",
+        "download_page": "https://github.com/Rem0o/FanControl.Releases/releases/latest",
+        "source_repo": "https://github.com/Rem0o/FanControl.Releases",
+        "winget_id": "Rem0o.FanControl",
+        "version": "V281",
+        "released": "2026-09-26",
+        "license": "Freeware, closed source (bundled libraries under their own open-source licenses)",
+        "signer": "Rémi Mercier",
+        "files": [
+            {
+                "filename": "FanControl_281_net_10_0.zip",
+                "build": "Windows, .NET 10, portable ZIP",
+                "size_mb": 17.77,
+                "sha256": "e55fbc2e5cdb681795396e51e175ffca8452218d1bdc84f7a672d20be38132f8"
+            },
+            {
+                "filename": "FanControl_281_net_10_0_Installer.exe",
+                "build": "Windows, .NET 10, installer",
+                "size_mb": 19.47,
+                "sha256": "727dcd6826dca73d8fb4df031473ca68087ee8cb5277b8277ae04cc45a055bb9"
+            },
+            {
+                "filename": "FanControl_281_net_4_8.zip",
+                "build": "Windows, .NET Framework 4.8, portable ZIP",
+                "size_mb": 11.6,
+                "sha256": "2958d45e1b43a298b0251ef9fdefac35236f7b5a8293cc49556e64878d7b40a1"
+            },
+            {
+                "filename": "FanControl_281_net_4_8_Installer.exe",
+                "build": "Windows, .NET Framework 4.8, installer",
+                "size_mb": 13.27,
+                "sha256": "09dc4d4574aca6a3d62b7b697443a6323add80bcfe002a663fecda7d9b307cea"
+            }
+        ],
+        "checked": "2026-09-30",
+        "details_url": "https://softwares-academy.com/software/fancontrol/"
+    },
+    {
+        "id": "faststone-image-viewer",
+        "name": "FastStone Image Viewer",
+        "publisher": "FastStone Corporation",
+        "category": "graphics-design",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.faststone.org/FSViewerDetail.htm",
+        "official_domain": "faststone.org",
+        "download_page": "https://www.faststone.org/FSViewerDownload.htm",
+        "winget_id": "FastStone.Viewer",
+        "version": "8.5",
+        "released": "2026-06-24",
+        "license": "Freeware for personal and educational use; paid licence for commercial use",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/faststone-image-viewer/"
+    },
+    {
+        "id": "ffmpeg",
+        "name": "FFmpeg",
+        "publisher": "The FFmpeg developers",
+        "category": "media-players",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://ffmpeg.org",
+        "official_domain": "ffmpeg.org",
+        "download_page": "https://ffmpeg.org/download.html",
+        "source_repo": "https://git.ffmpeg.org/ffmpeg.git",
+        "version": "9.0.2",
+        "released": "2026-09-18",
+        "license": "LGPL-2.1-or-later (some optional parts GPL)",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/ffmpeg/"
+    },
+    {
+        "id": "flyoobe",
+        "name": "Flyoobe",
+        "publisher": "Belim (GitHub: builtbybel)",
+        "category": "system-tools",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://github.com/builtbybel/Flyoobe",
+        "official_domain": "github.com",
+        "download_page": "https://github.com/builtbybel/Flyoobe/releases/tag/3.03.100",
+        "version": "3.03.100",
+        "released": "2026-09-28",
+        "license": "3.x terms unverified; older source MIT",
+        "files": [
+            {
+                "filename": "FlyoobeApp.zip",
+                "build": "Windows, .NET Framework 4.8 (main app)",
+                "size_mb": 0.697,
+                "sha256": "c07e641d2e2fbae8b1c3bbcba7a608836598fba9f79465ae22204308a08d162d"
+            },
+            {
+                "filename": "Actions.zip",
+                "build": "Optional Setup Actions (PowerShell), extract into the Data folder",
+                "size_mb": 0.013,
+                "sha256": "f0e7774ca1354adcf03f351c0bd72e8fe1651b7a23a647ad27e69b0abb9fa745"
+            }
+        ],
+        "known_impostors": [
+            {
+                "domain": "flyoobe.com",
+                "source": "https://github.com/builtbybel/Flyoobe"
+            },
+            {
+                "domain": "github.com/flyoobe",
+                "source": "https://github.com/builtbybel/Flyoobe"
+            }
+        ],
+        "checked": "2026-10-02",
+        "details_url": "https://softwares-academy.com/software/flyoobe/"
+    },
+    {
+        "id": "foobar2000",
+        "name": "foobar2000",
+        "publisher": "Peter Pawlowski",
+        "category": "media-players",
+        "platforms": [
+            "android",
+            "iphone",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.foobar2000.org",
+        "official_domain": "foobar2000.org",
+        "download_page": "https://www.foobar2000.org/windows",
+        "winget_id": "PeterPawlowski.foobar2000",
+        "version": "2.25.10",
+        "released": "2026-06-26",
+        "license": "Freeware",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/foobar2000/"
+    },
+    {
+        "id": "fortnite",
+        "name": "Fortnite",
+        "publisher": "Epic Games",
+        "category": "games",
+        "platforms": [
+            "android",
+            "iphone",
+            "windows"
+        ],
+        "official_site": "https://www.fortnite.com",
+        "official_domain": "fortnite.com",
+        "download_page": "https://store.epicgames.com/en-US/p/fortnite",
+        "released": "2017-07-21",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/fortnite/"
+    },
+    {
+        "id": "freecad",
+        "name": "FreeCAD",
+        "publisher": "The FreeCAD project (FreeCAD project association)",
+        "category": "3d-printing",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.freecad.org",
+        "official_domain": "freecad.org",
+        "download_page": "https://www.freecad.org/downloads.php",
+        "source_repo": "https://github.com/FreeCAD/FreeCAD",
+        "winget_id": "FreeCAD.FreeCAD",
+        "version": "1.1.4",
+        "released": "2026-09-28",
+        "license": "LGPL-2.0-or-later",
+        "files": [
+            {
+                "filename": "FreeCAD_1.1.4-Windows-x86_64-py311-installer.exe",
+                "build": "Windows 10+ x86_64 installer",
+                "size_mb": 495.26,
+                "sha256": "845f7101d33faf257a82a0cadc5f4f3804441f46ee493eb32b92fcf9c7147a24"
+            },
+            {
+                "filename": "FreeCAD_1.1.4-Windows-x86_64-py311.7z",
+                "build": "Windows 10+ x86_64 portable 7z",
+                "size_mb": 398.72,
+                "sha256": "4828741fc91ee37fafcdb97a1abacb18b04ba451ac4372d9ff7a7349b36f4d6d"
+            },
+            {
+                "filename": "FreeCAD_1.1.4-macOS-arm64-py311.dmg",
+                "build": "macOS 12+ Apple Silicon",
+                "size_mb": 619.66,
+                "sha256": "071343b4abb70492b75c973f41eaf1d2528f9b9c7ea018d22a4f46ae14d27ac0"
+            },
+            {
+                "filename": "FreeCAD_1.1.4-macOS-x86_64-py311.dmg",
+                "build": "macOS 12+ Intel",
+                "size_mb": 686.7,
+                "sha256": "e173d0dcf47a5166b59cbb33adccf54cd751eb9ceaa2c86486230d0d079648c1"
+            },
+            {
+                "filename": "FreeCAD_1.1.4-Linux-x86_64-py311.AppImage",
+                "build": "Linux x86_64 AppImage",
+                "size_mb": 782.79,
+                "sha256": "f6dc6ba676e5ac96a565ebc8d657232f94c6158e85b4352141bd1a46f6b43434"
+            }
+        ],
+        "checked": "2026-09-30",
+        "details_url": "https://softwares-academy.com/software/freecad/"
+    },
+    {
+        "id": "g-helper",
+        "name": "G-Helper",
+        "publisher": "seerge (GitHub)",
+        "category": "drivers-hardware",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://g-helper.com",
+        "official_domain": "g-helper.com",
+        "download_page": "https://github.com/seerge/g-helper/releases/latest",
+        "source_repo": "https://github.com/seerge/g-helper",
+        "winget_id": "seerge.g-helper",
+        "version": "0.285",
+        "released": "2026-09-26",
+        "license": "GPL-3.0",
+        "signer": "SignPath Foundation",
+        "files": [
+            {
+                "filename": "GHelper.exe",
+                "build": "Windows x64, portable executable",
+                "size_mb": 5.8,
+                "sha256": "ab114a45d2f96c10596628133a16eb04293145c6c5e8baf387021283a075c595"
+            },
+            {
+                "filename": "GHelper.zip",
+                "build": "Windows x64, ZIP of the same app",
+                "size_mb": 2.1,
+                "sha256": "c4eee2f0acd5fa020ccfd850fbfa5616d801e049ddfae03f58ac9af94e5d4c3b"
+            }
+        ],
+        "checked": "2026-09-30",
+        "details_url": "https://softwares-academy.com/software/g-helper/"
+    },
+    {
+        "id": "genshin-impact",
+        "name": "Genshin Impact",
+        "publisher": "HoYoverse (COGNOSPHERE PTE. LTD.)",
+        "category": "games",
+        "platforms": [
+            "android",
+            "iphone",
+            "windows"
+        ],
+        "official_site": "https://genshin.hoyoverse.com",
+        "official_domain": "genshin.hoyoverse.com",
+        "download_page": "https://genshin.hoyoverse.com/en/",
+        "license": "Free to play",
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/genshin-impact/"
+    },
+    {
+        "id": "gimp",
+        "name": "GIMP",
+        "publisher": "The GIMP Team",
+        "category": "graphics-design",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.gimp.org",
+        "official_domain": "gimp.org",
+        "download_page": "https://www.gimp.org/downloads/",
+        "source_repo": "https://gitlab.gnome.org/GNOME/gimp",
+        "winget_id": "GIMP.GIMP.3",
+        "version": "3.2.6",
+        "released": "2026-09-10",
+        "license": "GPL-3.0-or-later",
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/gimp/"
+    },
+    {
+        "id": "google-chrome",
+        "name": "Google Chrome",
+        "publisher": "Google LLC",
+        "category": "internet-browsers",
+        "platforms": [
+            "android",
+            "iphone",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.google.com/chrome/",
+        "official_domain": "google.com",
+        "download_page": "https://www.google.com/chrome/",
+        "winget_id": "Google.Chrome",
+        "license": "Freeware",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/google-chrome/"
+    },
+    {
+        "id": "halo-infinite",
+        "name": "Halo Infinite",
+        "publisher": "343 Industries (published by Xbox Game Studios)",
+        "category": "games",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.halowaypoint.com/halo-infinite",
+        "official_domain": "halowaypoint.com",
+        "download_page": "https://store.steampowered.com/app/1240440/",
+        "released": "2021-11-15",
+        "license": "Free to play (multiplayer); campaign sold separately",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/halo-infinite/"
+    },
+    {
+        "id": "handbrake",
+        "name": "HandBrake",
+        "publisher": "The HandBrake Team",
+        "category": "media-players",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://handbrake.fr",
+        "official_domain": "handbrake.fr",
+        "download_page": "https://handbrake.fr/downloads.php",
+        "source_repo": "https://github.com/HandBrake/HandBrake",
+        "winget_id": "HandBrake.HandBrake",
+        "version": "1.11.2",
+        "released": "2026-06-07",
+        "license": "GPL-2.0",
+        "files": [
+            {
+                "filename": "HandBrake-1.11.2-x86_64-Win_GUI.exe",
+                "build": "Windows x64 installer",
+                "size_mb": 24.2,
+                "sha256": "6becb8e5a041941d5f2fd6fe83c66fc15b2b16190e2e79f5ad47eb4cd18df8cd"
+            },
+            {
+                "filename": "HandBrake-1.11.2-arm64-Win_GUI.exe",
+                "build": "Windows ARM64 installer",
+                "size_mb": 17.7,
+                "sha256": "fb69bafceb4e0ec208e3a7ea08eb1d119c49eb42e9954ad665cc75aa94d020b8"
+            },
+            {
+                "filename": "HandBrake-1.11.2.dmg",
+                "build": "macOS (Universal)",
+                "size_mb": 45.8,
+                "sha256": "4afe27aaa77a7bbb0dcda1a335d96a5f53649f2649fb84de6982ffecc35de9d7"
+            },
+            {
+                "filename": "HandBrake-1.11.2-x86_64.flatpak",
+                "build": "Linux x86_64 Flatpak bundle",
+                "size_mb": 28.4,
+                "sha256": "8383defa3a845b77e6589bebe9c346921747a5c33b4de7b90eddd2ba863a52e5"
+            }
+        ],
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/handbrake/"
+    },
+    {
+        "id": "handheld-companion",
+        "name": "Handheld Companion",
+        "publisher": "Valkirie and contributors (GitHub: Valkirie/HandheldCompanion)",
+        "category": "gaming-tools",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://github.com/Valkirie/HandheldCompanion",
+        "official_domain": "github.com",
+        "download_page": "https://github.com/Valkirie/HandheldCompanion/releases/tag/1.2.1.3",
+        "source_repo": "https://github.com/Valkirie/HandheldCompanion",
+        "version": "1.2.1.3",
+        "released": "2026-09-22",
+        "license": "CC BY-NC-SA 4.0",
+        "files": [
+            {
+                "filename": "HandheldCompanion-1.2.1.3.exe",
+                "build": "Windows installer (all-in-one setup)",
+                "size_mb": 42.1,
+                "sha256": "8ab1feb8cbe7cfd10eb50d8c39d4b944c0a9a5022b44a8447967c3de5a613bc8"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/handheld-companion/"
+    },
+    {
+        "id": "hearthstone",
+        "name": "Hearthstone",
+        "publisher": "Blizzard Entertainment",
+        "category": "games",
+        "platforms": [
+            "android",
+            "iphone",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://hearthstone.blizzard.com/en-us",
+        "official_domain": "hearthstone.blizzard.com",
+        "download_page": "https://hearthstone.blizzard.com/en-us",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/hearthstone/"
+    },
+    {
+        "id": "home-assistant",
+        "name": "Home Assistant",
+        "publisher": "Home Assistant project",
+        "category": "homelab",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.home-assistant.io/installation/",
+        "official_domain": "home-assistant.io",
+        "download_page": "https://www.home-assistant.io/installation/",
+        "source_repo": "https://github.com/home-assistant/operating-system",
+        "version": "Home Assistant OS 18.3 (Home Assistant 2026.9.3)",
+        "released": "2026-09-17",
+        "license": "Apache-2.0",
+        "files": [
+            {
+                "filename": "haos_rpi5-64-18.3.img.xz",
+                "build": "Raspberry Pi 5 image",
+                "size_mb": 315.1,
+                "sha256": "e148a92595059d71c8bbf4c80d66fcb9166b647e10024641936316402863c60f"
+            },
+            {
+                "filename": "haos_rpi4-64-18.3.img.xz",
+                "build": "Raspberry Pi 4 image",
+                "size_mb": 305.2,
+                "sha256": "611acc2d7437332dde18c2175134c5a9f859c7647ef6334a5b93b7278e67b185"
+            },
+            {
+                "filename": "haos_generic-x86-64-18.3.img.xz",
+                "build": "Generic x86-64 image (bare metal)",
+                "size_mb": 510.8,
+                "sha256": "121fcf49d373e6cfa68ce2176d740980b8856de263e876b9f6dfb299cbd51ef8"
+            },
+            {
+                "filename": "haos_ova-18.3.qcow2.xz",
+                "build": "KVM / Proxmox VM disk (qcow2)",
+                "size_mb": 486.4,
+                "sha256": "fae6a728768cc10aff60d4820bfcd40d64cd77fab82c8bd92af13b3d9d414090"
+            },
+            {
+                "filename": "haos_ova-18.3.vdi.zip",
+                "build": "VirtualBox VM disk (vdi)",
+                "size_mb": 533.3,
+                "sha256": "c626ffe0db7dd717270b41240ee3cbb5ada78a364239795f04435d6116c236d3"
+            },
+            {
+                "filename": "haos_ova-18.3.vhdx.zip",
+                "build": "Hyper-V VM disk (vhdx)",
+                "size_mb": 533.5,
+                "sha256": "f6218e9e32415c0d1ada87852a3ac2b16cdbc203481ee241b420c8de927b8d00"
+            },
+            {
+                "filename": "haos_ova-18.3.ova",
+                "build": "VMware ESXi / vSphere appliance (ova)",
+                "size_mb": 547.9,
+                "sha256": "938408c5bd0f5fe3a8f10ca0a985d611f5d4e74f9ace12bda33d950a9617ca12"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/home-assistant/"
+    },
+    {
+        "id": "honkai-star-rail",
+        "name": "Honkai: Star Rail",
+        "publisher": "HoYoverse (COGNOSPHERE PTE. LTD.)",
+        "category": "games",
+        "platforms": [
+            "android",
+            "iphone",
+            "windows"
+        ],
+        "official_site": "https://hsr.hoyoverse.com/en-us/",
+        "official_domain": "hsr.hoyoverse.com",
+        "download_page": "https://store.epicgames.com/en-US/p/honkai-star-rail",
+        "released": "2023-04-26",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/honkai-star-rail/"
+    },
+    {
+        "id": "immich",
+        "name": "Immich",
+        "publisher": "Immich (FUTO)",
+        "category": "homelab",
+        "platforms": [
+            "android",
+            "linux"
+        ],
+        "official_site": "https://immich.app/",
+        "official_domain": "immich.app",
+        "download_page": "https://docs.immich.app/install/docker-compose/",
+        "source_repo": "https://github.com/immich-app/immich",
+        "version": "3.2.2",
+        "released": "2026-09-15",
+        "license": "AGPL-3.0",
+        "files": [
+            {
+                "filename": "docker-compose.yml",
+                "build": "Docker Compose file (v3.2.2)",
+                "size_mb": 0,
+                "sha256": "fa98c3eb0884b0b88aaee11a9c9acb8cfb17a0f495d12c21358deb6d3e8a546b"
+            },
+            {
+                "filename": "example.env",
+                "build": "Environment file template (rename to .env)",
+                "size_mb": 0,
+                "sha256": "dda820cecbcf5fd5d6afecc54107bbd3c973088c631d380dfc83e9f0f2c6b210"
+            },
+            {
+                "filename": "app-arm64-v8a-release.apk",
+                "build": "Android APK for arm64-v8a phones",
+                "size_mb": 65.8,
+                "sha256": "d0b70b59b49e5c60dea65f5e16c890957afb7975ced58cebcbac9d2e22420153"
+            },
+            {
+                "filename": "app-release.apk",
+                "build": "Android APK (universal)",
+                "size_mb": 170.7,
+                "sha256": "d5bed60d11ccd946d20e79abb65ef9e63819427fe079383956e272dad70a585a"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/immich/"
+    },
+    {
+        "id": "inkscape",
+        "name": "Inkscape",
+        "publisher": "The Inkscape Project",
+        "category": "graphics-design",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://inkscape.org",
+        "official_domain": "inkscape.org",
+        "download_page": "https://inkscape.org/release/inkscape-1.4.4/windows/",
+        "source_repo": "https://gitlab.com/inkscape/inkscape",
+        "winget_id": "Inkscape.Inkscape",
+        "version": "1.4.4",
+        "released": "2026-05-06",
+        "license": "GPL-2.0-or-later",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/inkscape/"
+    },
+    {
+        "id": "irfanview",
+        "name": "IrfanView",
+        "publisher": "Irfan Skiljan",
+        "category": "graphics-design",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.irfanview.com",
+        "official_domain": "irfanview.com",
+        "download_page": "https://www.irfanview.com/64bit.htm",
+        "version": "4.76",
+        "released": "2026-09-18",
+        "license": "Freeware for non-commercial use",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/irfanview/"
+    },
+    {
+        "id": "jellyfin",
+        "name": "Jellyfin",
+        "publisher": "The Jellyfin Project",
+        "category": "homelab",
+        "platforms": [
+            "android",
+            "iphone",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://jellyfin.org",
+        "official_domain": "jellyfin.org",
+        "download_page": "https://jellyfin.org/downloads/windows",
+        "source_repo": "https://github.com/jellyfin/jellyfin",
+        "winget_id": "Jellyfin.Server",
+        "version": "12.1",
+        "released": "2026-09-15",
+        "license": "GPL-2.0",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/jellyfin/"
+    },
+    {
+        "id": "k-lite-codec-pack",
+        "name": "K-Lite Codec Pack",
+        "publisher": "Codec Guide",
+        "category": "media-players",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://codecguide.com",
+        "official_domain": "codecguide.com",
+        "download_page": "https://codecguide.com/download_kl.htm",
+        "winget_id": "CodecGuide.K-LiteCodecPack.Standard",
+        "version": "20.0.0",
+        "released": "2026-09-17",
+        "license": "Freeware",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/k-lite-codec-pack/"
+    },
+    {
+        "id": "kdenlive",
+        "name": "Kdenlive",
+        "publisher": "KDE",
+        "category": "video-editing",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://kdenlive.org",
+        "official_domain": "kdenlive.org",
+        "download_page": "https://kdenlive.org/download/",
+        "source_repo": "https://invent.kde.org/multimedia/kdenlive",
+        "winget_id": "KDE.Kdenlive",
+        "version": "26.08.1",
+        "released": "2026-09-11",
+        "license": "GPL-3.0",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/kdenlive/"
+    },
+    {
+        "id": "keepassxc",
+        "name": "KeePassXC",
+        "publisher": "KeePassXC Team",
+        "category": "system-tools",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://keepassxc.org",
+        "official_domain": "keepassxc.org",
+        "download_page": "https://keepassxc.org/download/",
+        "source_repo": "https://github.com/keepassxreboot/keepassxc",
+        "winget_id": "KeePassXCTeam.KeePassXC",
+        "version": "2.7.12",
+        "released": "2026-03-10",
+        "license": "GPL-3.0",
+        "files": [
+            {
+                "filename": "KeePassXC-2.7.12-Win64.msi",
+                "build": "Windows 10/11 x64 installer",
+                "size_mb": 34.2,
+                "sha256": "feee096c1d5d0d7bb7b36b18174818f7bac889be7668c550ff0e5ef9206ea9a5"
+            },
+            {
+                "filename": "KeePassXC-2.7.12-Win64.zip",
+                "build": "Windows 10/11 x64 portable ZIP",
+                "size_mb": 33.8,
+                "sha256": "958234b0669d757b53eacf42bdd5de0fa1cc1ab7527709ddf4f7e29c06a8305f"
+            },
+            {
+                "filename": "KeePassXC-2.7.12-Win64-LegacyWindows.msi",
+                "build": "Legacy installer for Windows 7/8/8.1 (x64)",
+                "size_mb": 63.9,
+                "sha256": "fc3a43bd40d6b67b26ea75b7050ec962e65f3933bd699fcd952f71050d169c3e"
+            },
+            {
+                "filename": "KeePassXC-2.7.12-arm64.dmg",
+                "build": "macOS 12+, Apple Silicon",
+                "size_mb": 32.8,
+                "sha256": "65f4f63607180c0a15794b4a4068f85e99ed5391c87c1fb9312648f1b36fed40"
+            },
+            {
+                "filename": "KeePassXC-2.7.12-x86_64.dmg",
+                "build": "macOS, Intel",
+                "size_mb": 33.9,
+                "sha256": "f55737bf759b7ea622967ae979e8fd0ef06a8133104124c24861fd11a3fe14b5"
+            },
+            {
+                "filename": "KeePassXC-2.7.12-x86_64.AppImage",
+                "build": "Linux x86_64 AppImage",
+                "size_mb": 47,
+                "sha256": "564fe8b751b9ef7aa057e4d3d0b2878db24eaa0f6b1c855c82e699ab0913ae49"
+            }
+        ],
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/keepassxc/"
+    },
+    {
+        "id": "kodi",
+        "name": "Kodi",
+        "publisher": "Kodi Foundation",
+        "category": "media-players",
+        "platforms": [
+            "android",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://kodi.tv",
+        "official_domain": "kodi.tv",
+        "download_page": "https://kodi.tv/download/windows",
+        "source_repo": "https://github.com/xbmc/xbmc",
+        "winget_id": "XBMCFoundation.Kodi",
+        "version": "21.3",
+        "license": "GPL-2.0-or-later",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/kodi/"
+    },
+    {
+        "id": "krita",
+        "name": "Krita",
+        "publisher": "Krita Foundation (KDE)",
+        "category": "graphics-design",
+        "platforms": [
+            "android",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://krita.org",
+        "official_domain": "krita.org",
+        "download_page": "https://krita.org/en/download/",
+        "source_repo": "https://invent.kde.org/graphics/krita",
+        "winget_id": "KDE.Krita",
+        "version": "5.3.4",
+        "released": "2026-09-15",
+        "license": "GPL-3.0",
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/krita/"
+    },
+    {
+        "id": "league-of-legends",
+        "name": "League of Legends",
+        "publisher": "Riot Games",
+        "category": "games",
+        "platforms": [
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.leagueoflegends.com/en-us/",
+        "official_domain": "leagueoflegends.com",
+        "download_page": "https://www.leagueoflegends.com/en-us/download/",
+        "winget_id": "RiotGames.LeagueOfLegends.NA",
+        "released": "2009-10-27",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/league-of-legends/"
+    },
+    {
+        "id": "legends-of-runeterra",
+        "name": "Legends of Runeterra",
+        "publisher": "Riot Games",
+        "category": "games",
+        "platforms": [
+            "android",
+            "iphone",
+            "windows"
+        ],
+        "official_site": "https://playruneterra.com/en-us/",
+        "official_domain": "playruneterra.com",
+        "download_page": "https://playruneterra.com/en-us/",
+        "winget_id": "RiotGames.LegendsOfRuneterra.Americas",
+        "released": "2020-04-29",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/legends-of-runeterra/"
+    },
+    {
+        "id": "librecad",
+        "name": "LibreCAD",
+        "publisher": "The LibreCAD community",
+        "category": "graphics-design",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://librecad.org",
+        "official_domain": "librecad.org",
+        "download_page": "https://github.com/LibreCAD/LibreCAD/releases/latest",
+        "source_repo": "https://github.com/LibreCAD/LibreCAD",
+        "winget_id": "LibreCAD.LibreCAD",
+        "version": "2.2.1.5",
+        "released": "2026-05-02",
+        "license": "GPL-2.0",
+        "files": [
+            {
+                "filename": "LibreCAD-v2.2.1.5-win64-msvc.exe",
+                "build": "Windows 64-bit installer",
+                "size_mb": 51.8,
+                "sha256": "738912fea40aca934689444af9c5cd281572417983cc081c204fe6c779f6941d"
+            },
+            {
+                "filename": "LibreCAD-v2.2.1.5-arm64.dmg",
+                "build": "macOS Apple Silicon",
+                "size_mb": 37.1,
+                "sha256": "0c6ce2e25a027ff3e921b74101d1c4e167687d2386fe0798f2f4c37d12deb436"
+            },
+            {
+                "filename": "LibreCAD-v2.2.1.5.dmg",
+                "build": "macOS (non-arm64 build)",
+                "size_mb": 30.9,
+                "sha256": "34369e791af12e414d6e08c0954f679990706215a07b569a8eb7b9a6fa115f38"
+            },
+            {
+                "filename": "LibreCAD-v2.2.1.5-x86_64.AppImage",
+                "build": "Linux x86_64 AppImage",
+                "size_mb": 39.7,
+                "sha256": "0889296c62cd852df5ae6f559b840ec94a10b4e8514f0cbb04115e19fe74561f"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/librecad/"
+    },
+    {
+        "id": "libreoffice",
+        "name": "LibreOffice",
+        "publisher": "The Document Foundation",
+        "category": "office-productivity",
+        "platforms": [
+            "android",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.libreoffice.org",
+        "official_domain": "libreoffice.org",
+        "download_page": "https://www.libreoffice.org/download/download-libreoffice/",
+        "winget_id": "TheDocumentFoundation.LibreOffice",
+        "version": "26.8.0",
+        "released": "2026-08-26",
+        "license": "MPL-2.0",
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/libreoffice/"
+    },
+    {
+        "id": "lmms",
+        "name": "LMMS",
+        "publisher": "LMMS developers (community project)",
+        "category": "media-players",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://lmms.io",
+        "official_domain": "lmms.io",
+        "download_page": "https://lmms.io/download",
+        "source_repo": "https://github.com/LMMS/lmms",
+        "winget_id": "LMMS.LMMS",
+        "version": "1.2.2",
+        "released": "2020-06-25",
+        "license": "GPL-2.0-or-later",
+        "files": [
+            {
+                "filename": "lmms-1.2.2-win64.exe",
+                "build": "Windows 64-bit installer",
+                "size_mb": 35.1,
+                "sha256": "5f20af1d782468507417d0785826b1f064fadba88ed1691e2def269922ace56b"
+            },
+            {
+                "filename": "lmms-1.2.2-win32.exe",
+                "build": "Windows 32-bit installer",
+                "size_mb": 31.8,
+                "sha256": "cc701df9fc1b9e9e756d020edc4fcb90de5c28ed1e8229aa561ad4a065cd001b"
+            },
+            {
+                "filename": "lmms-1.2.2-mac10.14.dmg",
+                "build": "macOS 10.14 or newer",
+                "size_mb": 43.6,
+                "sha256": "bcf9d6693cf4000df4a4c705afb8bbaa30a3caf4e146939c983cc31eecb66eb0"
+            },
+            {
+                "filename": "lmms-1.2.2-linux-x86_64.AppImage",
+                "build": "Linux x86_64 AppImage",
+                "size_mb": 91.9,
+                "sha256": "6cdc45a0699b8cd85295c49bcac03fcce6f3d8ffd7da23d646d0cb4258869b76"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/lmms/"
+    },
+    {
+        "id": "losslesscut",
+        "name": "LosslessCut",
+        "publisher": "Mikael Finstad",
+        "category": "video-editing",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://github.com/mifi/lossless-cut",
+        "official_domain": "github.com",
+        "download_page": "https://github.com/mifi/lossless-cut/releases/latest",
+        "source_repo": "https://github.com/mifi/lossless-cut",
+        "version": "3.69.0",
+        "released": "2026-06-04",
+        "license": "GPL-2.0",
+        "files": [
+            {
+                "filename": "LosslessCut-win-x64.7z",
+                "build": "Windows 10/11 x64, portable 7z",
+                "size_mb": 139.4,
+                "sha256": "baf7106576999e1460f918054e3ad4ae38a95469892cc6a1a97b4131f02818e4"
+            },
+            {
+                "filename": "LosslessCut-win-arm64.7z",
+                "build": "Windows on ARM, portable 7z",
+                "size_mb": 101.8,
+                "sha256": "3d65a2fdb2b03789783e88dc150b6780e3252181b0fbc68c22f72339f1ac802b"
+            },
+            {
+                "filename": "LosslessCut-mac-x64.dmg",
+                "build": "macOS Intel",
+                "size_mb": 160.8,
+                "sha256": "ab828d1a652c895661b15b682d81106562e0f11fabcb8c2d1e4bf2c4fdddf64a"
+            },
+            {
+                "filename": "LosslessCut-mac-arm64.dmg",
+                "build": "macOS Apple Silicon",
+                "size_mb": 149.5,
+                "sha256": "c7801b482df3be0384acc8171d5a7d16cce70d1588871e344b155aaca39fa58b"
+            },
+            {
+                "filename": "LosslessCut-linux-x86_64.AppImage",
+                "build": "Linux x86_64 AppImage",
+                "size_mb": 211.3,
+                "sha256": "179eaae27bffbe25a6549a4a714474126b57c288cefc307046fc9c6313a12676"
+            },
+            {
+                "filename": "LosslessCut-linux-x64.tar.bz2",
+                "build": "Linux x64 tar.bz2",
+                "size_mb": 181.9,
+                "sha256": "cd69d7dda64b2978cead468c56703c1d58077e7a9c2379948a5d08816726a2e5"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/losslesscut/"
+    },
+    {
+        "id": "lost-ark",
+        "name": "Lost Ark",
+        "publisher": "Smilegate RPG (published by Amazon Game Studios)",
+        "category": "games",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.playlostark.com/en-us",
+        "official_domain": "playlostark.com",
+        "download_page": "https://store.steampowered.com/app/1599340/",
+        "released": "2022-02-11",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/lost-ark/"
+    },
+    {
+        "id": "lychee-slicer",
+        "name": "Lychee Slicer",
+        "publisher": "Lychee (formerly Mango 3D)",
+        "category": "3d-printing",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://lychee.co/",
+        "official_domain": "lychee.co",
+        "download_page": "https://lychee.co/download-lychee-slicer",
+        "version": "8.0.0",
+        "released": "2026-09-24",
+        "license": "Proprietary",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/lychee-slicer/"
+    },
+    {
+        "id": "magic-the-gathering-arena",
+        "name": "Magic: The Gathering Arena",
+        "publisher": "Wizards of the Coast",
+        "category": "games",
+        "platforms": [
+            "android",
+            "iphone",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://magic.wizards.com/en/mtgarena",
+        "official_domain": "magic.wizards.com",
+        "download_page": "https://store.steampowered.com/app/2141910/",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/magic-the-gathering-arena/"
+    },
+    {
+        "id": "marvel-rivals",
+        "name": "Marvel Rivals",
+        "publisher": "NetEase Games",
+        "category": "games",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.marvelrivals.com",
+        "official_domain": "marvelrivals.com",
+        "download_page": "https://store.steampowered.com/app/2767030/Marvel_Rivals/",
+        "license": "Free to play",
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/marvel-rivals/"
+    },
+    {
+        "id": "marvel-snap",
+        "name": "MARVEL SNAP",
+        "publisher": "Second Dinner Studios",
+        "category": "games",
+        "platforms": [
+            "android",
+            "iphone",
+            "windows"
+        ],
+        "official_site": "https://marvelsnap.com/",
+        "official_domain": "marvelsnap.com",
+        "download_page": "https://apps.apple.com/us/app/marvel-snap-hero-card-game/id1592081003",
+        "released": "2022-10-18",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/marvel-snap/"
+    },
+    {
+        "id": "microsoft-edge",
+        "name": "Microsoft Edge",
+        "publisher": "Microsoft Corporation",
+        "category": "internet-browsers",
+        "platforms": [
+            "android",
+            "iphone",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.microsoft.com/en-us/edge",
+        "official_domain": "microsoft.com",
+        "download_page": "https://www.microsoft.com/en-us/edge/download",
+        "winget_id": "Microsoft.Edge",
+        "license": "Proprietary",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/microsoft-edge/"
+    },
+    {
+        "id": "powertoys",
+        "name": "Microsoft PowerToys",
+        "publisher": "Microsoft",
+        "category": "system-tools",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://learn.microsoft.com/windows/powertoys/",
+        "official_domain": "learn.microsoft.com",
+        "download_page": "https://github.com/microsoft/PowerToys/releases/latest",
+        "source_repo": "https://github.com/microsoft/PowerToys",
+        "winget_id": "Microsoft.PowerToys",
+        "version": "0.101.2362.0",
+        "released": "2026-08-25",
+        "license": "MIT",
+        "files": [
+            {
+                "filename": "PowerToysUserSetup-0.101.2362.0-x64.exe",
+                "build": "Per-user installer, x64",
+                "size_mb": 282.6,
+                "sha256": "d56fa7130fa68afe553068c15a59a6b24c8dbcc9a0989a43ef0fc5a373230de3"
+            },
+            {
+                "filename": "PowerToysUserSetup-0.101.2362.0-arm64.exe",
+                "build": "Per-user installer, ARM64",
+                "size_mb": 274.5,
+                "sha256": "4c2ae5156b7e4f1f5ba744ba6e1cf6bfe3d9614978356e6b00aa47cab86350db"
+            },
+            {
+                "filename": "PowerToysSetup-0.101.2362.0-x64.exe",
+                "build": "Machine-wide installer, x64",
+                "size_mb": 282.7,
+                "sha256": "f27e4b4b01bff1a74bfa0116c99f9205f7138db6f7dfcaa9223fb8b635fe6050"
+            },
+            {
+                "filename": "PowerToysSetup-0.101.2362.0-arm64.exe",
+                "build": "Machine-wide installer, ARM64",
+                "size_mb": 274.5,
+                "sha256": "bee299302c0cd59e282bdc92cc8aaf737713eabcca77bb8bf09f43745d43cd93"
+            }
+        ],
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/powertoys/"
+    },
+    {
+        "id": "microsoft-teams",
+        "name": "Microsoft Teams",
+        "publisher": "Microsoft Corporation",
+        "category": "communication",
+        "platforms": [
+            "android",
+            "iphone",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
+        "official_domain": "microsoft.com",
+        "download_page": "https://www.microsoft.com/en-us/microsoft-teams/download-app",
+        "winget_id": "Microsoft.Teams",
+        "license": "Proprietary, free tier",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/microsoft-teams/"
+    },
+    {
+        "id": "firefox",
+        "name": "Mozilla Firefox",
+        "publisher": "Mozilla",
+        "category": "internet-browsers",
+        "platforms": [
+            "android",
+            "iphone",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.firefox.com",
+        "official_domain": "firefox.com",
+        "download_page": "https://www.firefox.com/en-US/",
+        "winget_id": "Mozilla.Firefox",
+        "version": "156.0.1",
+        "released": "2026-09-22",
+        "license": "MPL-2.0",
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/firefox/"
+    },
+    {
+        "id": "thunderbird",
+        "name": "Mozilla Thunderbird",
+        "publisher": "MZLA Technologies Corporation (Mozilla family)",
+        "category": "communication",
+        "platforms": [
+            "android",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.thunderbird.net",
+        "official_domain": "thunderbird.net",
+        "download_page": "https://www.thunderbird.net/en-US/download/",
+        "winget_id": "Mozilla.Thunderbird",
+        "version": "157.0",
+        "released": "2026-09-30",
+        "license": "MPL-2.0",
+        "checked": "2026-09-30",
+        "details_url": "https://softwares-academy.com/software/thunderbird/"
+    },
+    {
+        "id": "mpc-hc",
+        "name": "MPC-HC (Media Player Classic - Home Cinema)",
+        "publisher": "clsid2 (MPC-HC maintainer)",
+        "category": "media-players",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://github.com/clsid2/mpc-hc",
+        "official_domain": "github.com",
+        "download_page": "https://github.com/clsid2/mpc-hc/releases/latest",
+        "source_repo": "https://github.com/clsid2/mpc-hc",
+        "winget_id": "clsid2.mpc-hc",
+        "version": "2.8.2",
+        "released": "2026-09-17",
+        "license": "GPL-3.0",
+        "files": [
+            {
+                "filename": "MPC-HC.2.8.2.x64.exe",
+                "build": "Windows x64 installer",
+                "size_mb": 21.9,
+                "sha256": "4a39ff780905c533f43b7e5684672a50345369b54e895e2ca6b7039194490d12"
+            },
+            {
+                "filename": "MPC-HC.2.8.2.x64.zip",
+                "build": "Windows x64 portable (zip)",
+                "size_mb": 28.6,
+                "sha256": "eefee5ac29fc33e6031e34e0e163e157212d272c1bcf576149d40c0c7abb32f4"
+            },
+            {
+                "filename": "MPC-HC.2.8.2.x86.exe",
+                "build": "Windows x86 installer",
+                "size_mb": 20.4,
+                "sha256": "4a2115a5ddd9d26945a2593410a2a47ab86b8eb5fc44c8397cab1b22911030d3"
+            },
+            {
+                "filename": "MPC-HC.2.8.2.x86.zip",
+                "build": "Windows x86 portable (zip)",
+                "size_mb": 26.6,
+                "sha256": "fd8e668fc239cd19bf764ccdfb787176a749315180a6470680511d2c8cad2675"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/mpc-hc/"
+    },
+    {
+        "id": "mpv",
+        "name": "mpv",
+        "publisher": "mpv project",
+        "category": "media-players",
+        "platforms": [
+            "android",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://mpv.io",
+        "official_domain": "mpv.io",
+        "download_page": "https://mpv.io/installation/",
+        "source_repo": "https://github.com/mpv-player/mpv",
+        "version": "0.41.0",
+        "released": "2025-12-21",
+        "license": "GPL-2.0-or-later",
+        "files": [
+            {
+                "filename": "mpv-v0.41.0-x86_64-pc-windows-msvc.zip",
+                "build": "Windows x64 (MSVC)",
+                "size_mb": 73.6,
+                "sha256": "4e197f729f5071c6772f35fffd96e0f36e3e8a044bd9479b136bb09b7c6a80ff"
+            },
+            {
+                "filename": "mpv-v0.41.0-x86_64-w64-mingw32.zip",
+                "build": "Windows x64 (MinGW)",
+                "size_mb": 37.2,
+                "sha256": "a49811c0752c108b8260636f9c6f6fcb97406641c98b30f1e7b500dfb20177de"
+            },
+            {
+                "filename": "mpv-v0.41.0-aarch64-pc-windows-msvc.zip",
+                "build": "Windows ARM64 (MSVC)",
+                "size_mb": 68.2,
+                "sha256": "a822abeffd0ac88951f4084f3425f949842aa17d616f880637ebe9041e482e97"
+            },
+            {
+                "filename": "mpv-v0.41.0-i686-w64-mingw32.zip",
+                "build": "Windows x86 32-bit (MinGW)",
+                "size_mb": 33.6,
+                "sha256": "7e88e5b53b322cc2fa8c161494c75b11c02a64252fc8c6f34a80e01d6ace4a73"
+            },
+            {
+                "filename": "mpv-v0.41.0-macos-15-arm.zip",
+                "build": "macOS 15, Apple silicon",
+                "size_mb": 41.9,
+                "sha256": "489cf6a54f57c54f86ad8d7cedaf5bb26848770d58dc059021214e2f689ee799"
+            },
+            {
+                "filename": "mpv-v0.41.0-macos-15-intel.zip",
+                "build": "macOS 15, Intel",
+                "size_mb": 47,
+                "sha256": "41003617ab4f7784394b5ddea7ce51b3e0838e8cfc8166ad1a378b2eda3b583c"
+            },
+            {
+                "filename": "mpv-v0.41.0-macos-14-arm.zip",
+                "build": "macOS 14, Apple silicon",
+                "size_mb": 41.7,
+                "sha256": "5c96f9b21355fc0a11d2e2161ad65f33031070e9fb3f6bd9865fb459b94587e6"
+            },
+            {
+                "filename": "mpv-v0.41.0-macos-26-arm.zip",
+                "build": "macOS 26, Apple silicon",
+                "size_mb": 41.7,
+                "sha256": "09820c0d84f6687446b84eb9df81fcf6a26ebe869cee58ea1857d7948cfb7c71"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/mpv/"
+    },
+    {
+        "id": "msi-afterburner",
+        "name": "MSI Afterburner",
+        "publisher": "MSI (Micro-Star International)",
+        "category": "gaming-tools",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.msi.com/Landing/afterburner/graphics-cards",
+        "official_domain": "msi.com",
+        "download_page": "https://www.msi.com/Landing/afterburner/graphics-cards",
+        "winget_id": "Guru3D.Afterburner",
+        "version": "4.6.6",
+        "license": "Freeware",
+        "checked": "2026-09-30",
+        "details_url": "https://softwares-academy.com/software/msi-afterburner/"
+    },
+    {
+        "id": "musicbee",
+        "name": "MusicBee",
+        "publisher": "Steven Mayall",
+        "category": "media-players",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.getmusicbee.com",
+        "official_domain": "getmusicbee.com",
+        "download_page": "https://www.getmusicbee.com/downloads/",
+        "version": "3.6.9668",
+        "released": "2026-06-20",
+        "license": "Freeware",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/musicbee/"
+    },
+    {
+        "id": "naraka-bladepoint",
+        "name": "NARAKA: BLADEPOINT",
+        "publisher": "24 Entertainment (published by NetEase Games)",
+        "category": "games",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.narakathegame.com",
+        "official_domain": "narakathegame.com",
+        "download_page": "https://store.steampowered.com/app/1203220/",
+        "released": "2021-08-11",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/naraka-bladepoint/"
+    },
+    {
+        "id": "notepad-plus-plus",
+        "name": "Notepad++",
+        "publisher": "Don Ho and the Notepad++ team",
+        "category": "office-productivity",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://notepad-plus-plus.org",
+        "official_domain": "notepad-plus-plus.org",
+        "download_page": "https://notepad-plus-plus.org/downloads/",
+        "source_repo": "https://github.com/notepad-plus-plus/notepad-plus-plus",
+        "winget_id": "Notepad++.Notepad++",
+        "version": "8.9.8.1",
+        "released": "2026-09-24",
+        "license": "GPL-3.0",
+        "files": [
+            {
+                "filename": "npp.8.9.8.1.Installer.x64.exe",
+                "build": "Windows x64 installer",
+                "size_mb": 6.6,
+                "sha256": "26f3bcced788fadbac4e7e577b430ea2ce6060cf3bcad993ef4612ecd7d743da"
+            },
+            {
+                "filename": "npp.8.9.8.1.Installer.exe",
+                "build": "Windows x86 (32-bit) installer",
+                "size_mb": 6.5,
+                "sha256": "ee848aa54df153921678b343857a83861da81ce0c9dbb217b6f55a8780e60f5e"
+            },
+            {
+                "filename": "npp.8.9.8.1.Installer.arm64.exe",
+                "build": "Windows ARM64 installer",
+                "size_mb": 6.3,
+                "sha256": "a53c5116b55ac93fedd7808e71096badecbf10a55f2be9b28b741591b8917a73"
+            },
+            {
+                "filename": "npp.8.9.8.1.Installer.x64.msi",
+                "build": "Windows x64 MSI",
+                "size_mb": 7.5,
+                "sha256": "0c4f4fe82babd7688f5c1431b1357392491563af6ffedf4e37f5de0bd71babb4"
+            },
+            {
+                "filename": "npp.8.9.8.1.portable.x64.zip",
+                "build": "Windows x64 portable ZIP",
+                "size_mb": 7.9,
+                "sha256": "beddf5548e75c97930d1575ba1c7d113e6e2b33d0a200310e734ca08e225f414"
+            }
+        ],
+        "known_impostors": [
+            {
+                "domain": "notepad.plus",
+                "source": "https://notepad-plus-plus.org/news/help-to-take-down-parasite-site/"
+            },
+            {
+                "domain": "notepad-plus-plus-mac.org",
+                "source": "https://www.macrumors.com/2026/05/04/notepad-plus-plus-trademark-violation/"
+            }
+        ],
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/notepad-plus-plus/"
+    },
+    {
+        "id": "nvcleanstall",
+        "name": "NVCleanstall",
+        "publisher": "TechPowerUp",
+        "category": "drivers-hardware",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.techpowerup.com/nvcleanstall/",
+        "official_domain": "techpowerup.com",
+        "download_page": "https://www.techpowerup.com/download/techpowerup-nvcleanstall/",
+        "version": "1.19.0",
+        "released": "2025-04-23",
+        "license": "Free (TechPowerUp freeware)",
+        "signer": "TechPowerUp LLC",
+        "files": [
+            {
+                "filename": "NVCleanstall_1.19.0.exe",
+                "build": "Portable (no installation required)",
+                "size_mb": 3.8,
+                "sha256": "9dd36ef956af927cf41fa441f91b329a7973e13965e4e7d70e6fa9c1df1cade6"
+            }
+        ],
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/nvcleanstall/"
+    },
+    {
+        "id": "obs-studio",
+        "name": "OBS Studio",
+        "publisher": "OBS Project",
+        "category": "video-streaming",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://obsproject.com",
+        "official_domain": "obsproject.com",
+        "download_page": "https://obsproject.com/download",
+        "source_repo": "https://github.com/obsproject/obs-studio",
+        "winget_id": "OBSProject.OBSStudio",
+        "version": "32.2.2",
+        "released": "2026-08-14",
+        "license": "GPL-2.0",
+        "files": [
+            {
+                "filename": "OBS-Studio-32.2.2-Windows-x64-Installer.exe",
+                "build": "Windows x64 installer",
+                "size_mb": 152.4,
+                "sha256": "c3a0b880adbe64dc4bcb68f93016916ab5b55ae43fd227115287bf80257d92dc"
+            },
+            {
+                "filename": "OBS-Studio-32.2.2-Windows-x64.zip",
+                "build": "Windows x64 ZIP (no installer)",
+                "size_mb": 179.1,
+                "sha256": "4d6e40e3ab155f56b30de517380566a206d74b63cdf5ad49aa596924768f97e1"
+            },
+            {
+                "filename": "OBS-Studio-32.2.2-Windows-arm64.zip",
+                "build": "Windows ARM64 ZIP",
+                "size_mb": 159.4,
+                "sha256": "b16b41c3cf89b8a919738359a46acb25d207ec1e488563139d7c276cfffb0906"
+            },
+            {
+                "filename": "OBS-Studio-32.2.2-macOS-Apple.dmg",
+                "build": "macOS, Apple Silicon",
+                "size_mb": 179,
+                "sha256": "920d6f26703d2df6e4085bd3c1cbed30488325084136c7a6e9e37021fbd6aaf7"
+            },
+            {
+                "filename": "OBS-Studio-32.2.2-macOS-Intel.dmg",
+                "build": "macOS, Intel",
+                "size_mb": 189.7,
+                "sha256": "f8d8afe3dffdc86efa0698c02ff0c997866bac3e6208ddaf56d37108baacf197"
+            },
+            {
+                "filename": "OBS-Studio-32.2.2-Ubuntu-24.04-x86_64.deb",
+                "build": "Ubuntu 24.04 x86_64 .deb",
+                "size_mb": 128.1,
+                "sha256": "b6557ca2059287210332accc94c267094050489cffffc5c832e746e3a418dab0"
+            },
+            {
+                "filename": "OBS-Studio-32.2.2-Ubuntu-26.04-x86_64.deb",
+                "build": "Ubuntu 26.04 x86_64 .deb",
+                "size_mb": 128.2,
+                "sha256": "f256927aeba7b8d2ce64815402e723d1dd8332d1e6535939b03572f2adcc2849"
+            }
+        ],
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/obs-studio/"
+    },
+    {
+        "id": "openscad",
+        "name": "OpenSCAD",
+        "publisher": "Marius Kintel and the OpenSCAD developers",
+        "category": "3d-printing",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://openscad.org",
+        "official_domain": "openscad.org",
+        "download_page": "https://openscad.org/downloads.html",
+        "source_repo": "https://github.com/openscad/openscad",
+        "winget_id": "OpenSCAD.OpenSCAD",
+        "version": "2021.01",
+        "released": "2021-01-31",
+        "license": "GPL-2.0",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/openscad/"
+    },
+    {
+        "id": "openshot",
+        "name": "OpenShot Video Editor",
+        "publisher": "OpenShot Studios, LLC",
+        "category": "video-editing",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.openshot.org",
+        "official_domain": "openshot.org",
+        "download_page": "https://www.openshot.org/download/",
+        "source_repo": "https://github.com/OpenShot/openshot-qt",
+        "winget_id": "OpenShot.OpenShot",
+        "version": "4.0.1",
+        "released": "2026-09-27",
+        "license": "GPL-3.0",
+        "files": [
+            {
+                "filename": "OpenShot-v4.0.1-x86_64.exe",
+                "build": "Windows 64-bit installer",
+                "size_mb": 216.07,
+                "sha256": "70eacf59edef65cfb0c73678a1195ebd1cef3a328d202e4d915b7feeb4294416"
+            },
+            {
+                "filename": "OpenShot-v4.0.1-x86.exe",
+                "build": "Windows 32-bit installer",
+                "size_mb": 211.01,
+                "sha256": "8ba8f67bc7d275a5b0bda11d29a7ba6f264b0794f58a1b945ab1e5dc3e0c0e4e"
+            },
+            {
+                "filename": "OpenShot-v4.0.1-x86_64.dmg",
+                "build": "macOS, Intel and Apple Silicon",
+                "size_mb": 278.89,
+                "sha256": "32d5e55b447fd155f3f193ec36efe47e1f57f02a5f2090bdf3ef7b0bc7c8bcfd"
+            },
+            {
+                "filename": "OpenShot-v4.0.1-x86_64.AppImage",
+                "build": "Linux x86_64 AppImage",
+                "size_mb": 241.26,
+                "sha256": "cbeaaaf1de5afe8b3cdb55f50680e5d8f37ff0c2ea5052ddb012c01c9cca7a3f"
+            }
+        ],
+        "checked": "2026-09-30",
+        "details_url": "https://softwares-academy.com/software/openshot/"
+    },
+    {
+        "id": "opera",
+        "name": "Opera",
+        "publisher": "Opera Norway AS",
+        "category": "internet-browsers",
+        "platforms": [
+            "android",
+            "iphone",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.opera.com",
+        "official_domain": "opera.com",
+        "download_page": "https://www.opera.com/download",
+        "winget_id": "Opera.Opera",
+        "license": "Freeware",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/opera/"
+    },
+    {
+        "id": "optiscaler",
+        "name": "OptiScaler",
+        "publisher": "OptiScaler team (GitHub organization: optiscaler)",
+        "category": "gaming-tools",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://github.com/optiscaler/OptiScaler",
+        "official_domain": "github.com",
+        "download_page": "https://github.com/optiscaler/OptiScaler/releases/tag/v0.9.4",
+        "source_repo": "https://github.com/optiscaler/OptiScaler",
+        "version": "0.9.4",
+        "released": "2026-07-18",
+        "license": "GPL-3.0 (OptiScaler; bundled components have separate terms)",
+        "files": [
+            {
+                "filename": "Optiscaler_0.9.4-final.20260718._MM.7z",
+                "build": "Windows archive; publisher release metadata only; no local hash or signature inspection",
+                "size_mb": 55.02,
+                "sha256": "575cb4df866116093df75af607e37fd70e10f5163e0f23fd5c804142e80ef0ad"
+            }
+        ],
+        "checked": "2026-10-05",
+        "details_url": "https://softwares-academy.com/software/optiscaler/"
+    },
+    {
+        "id": "virtualbox",
+        "name": "Oracle VirtualBox",
+        "publisher": "Oracle",
+        "category": "homelab",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.virtualbox.org",
+        "official_domain": "virtualbox.org",
+        "download_page": "https://www.virtualbox.org/wiki/Downloads",
+        "winget_id": "Oracle.VirtualBox",
+        "version": "7.2.20",
+        "released": "2026-09-22",
+        "license": "GPL-3.0 (base package); Extension Pack under PUEL",
+        "checked": "2026-09-30",
+        "details_url": "https://softwares-academy.com/software/virtualbox/"
+    },
+    {
+        "id": "orcaslicer",
+        "name": "OrcaSlicer",
+        "publisher": "SoftFever and the OrcaSlicer community",
+        "category": "3d-printing",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.orcaslicer.com",
+        "official_domain": "orcaslicer.com",
+        "download_page": "https://github.com/OrcaSlicer/OrcaSlicer/releases/tag/v2.4.2",
+        "source_repo": "https://github.com/OrcaSlicer/OrcaSlicer",
+        "winget_id": "SoftFever.OrcaSlicer",
+        "version": "2.4.2",
+        "released": "2026-07-07",
+        "license": "AGPL-3.0",
+        "files": [
+            {
+                "filename": "OrcaSlicer_Windows_Installer_V2.4.2_x64.exe",
+                "build": "Windows x64 installer",
+                "size_mb": 137.86,
+                "sha256": "f602f9d646f49bee387d8f342a0193a7ef20756eabb845e19795c5a62b90a58a"
+            },
+            {
+                "filename": "OrcaSlicer_Windows_Installer_V2.4.2_arm64.exe",
+                "build": "Windows ARM64 installer",
+                "size_mb": 124.94,
+                "sha256": "ce00548d9444eeada4e61f49f35e2984e493671aadd3d98a9ee94fe18977527d"
+            },
+            {
+                "filename": "OrcaSlicer_Mac_universal_V2.4.2.dmg",
+                "build": "macOS universal DMG (Apple Silicon and Intel)",
+                "size_mb": 246.09,
+                "sha256": "e15e7bb1b66214ec6e96b169b388004179c4f5f705effcdaf8c80d4992ee0366"
+            },
+            {
+                "filename": "OrcaSlicer_Linux_AppImage_Ubuntu2404_V2.4.2.AppImage",
+                "build": "Linux x86_64 AppImage",
+                "size_mb": 137.76,
+                "sha256": "d12fb8c8eac1aecd2dfb6377acd48f994f8fa439ed5292fa532dd82880f029fd"
+            },
+            {
+                "filename": "OrcaSlicer_Linux_AppImage_Ubuntu2404_aarch64_V2.4.2.AppImage",
+                "build": "Linux ARM64 AppImage",
+                "size_mb": 135.47,
+                "sha256": "e1a07275a25f176626c55a5df39e91bc4476d8c28ee4a3192ff758e29dd5c3ba"
+            }
+        ],
+        "known_impostors": [
+            {
+                "domain": "orca-slicer.com",
+                "source": "https://github.com/OrcaSlicer/OrcaSlicer"
+            },
+            {
+                "domain": "orcaslicer.net",
+                "source": "https://github.com/OrcaSlicer/OrcaSlicer"
+            }
+        ],
+        "checked": "2026-10-03",
+        "details_url": "https://softwares-academy.com/software/orcaslicer/"
+    },
+    {
+        "id": "overwatch",
+        "name": "Overwatch",
+        "publisher": "Blizzard Entertainment",
+        "category": "games",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://overwatch.blizzard.com/en-us/",
+        "official_domain": "overwatch.blizzard.com",
+        "download_page": "https://store.steampowered.com/app/2357570/",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/overwatch/"
+    },
+    {
+        "id": "paint-net",
+        "name": "Paint.NET",
+        "publisher": "dotPDN LLC (Rick Brewster)",
+        "category": "graphics-design",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.getpaint.net",
+        "official_domain": "getpaint.net",
+        "download_page": "https://www.getpaint.net/download.html",
+        "source_repo": "https://github.com/paintdotnet/release",
+        "winget_id": "dotPDN.PaintDotNet",
+        "version": "5.1.12",
+        "released": "2026-03-08",
+        "license": "Freeware (proprietary)",
+        "files": [
+            {
+                "filename": "paint.net.5.1.12.install.x64.zip",
+                "build": "Windows x64 installer (zip)",
+                "size_mb": 80.3,
+                "sha256": "3cd861b5af3f85bd28666d4a9017d03de237c08ad0103ee9d92b2cd921f8c867"
+            },
+            {
+                "filename": "paint.net.5.1.12.install.arm64.zip",
+                "build": "Windows ARM64 installer (zip)",
+                "size_mb": 70.3,
+                "sha256": "46e990f5f7576457da65dc4031f6c840c08e00ebedd679e7b879852e0f92310a"
+            },
+            {
+                "filename": "paint.net.5.1.12.portable.x64.zip",
+                "build": "Windows x64 portable (zip)",
+                "size_mb": 125.9,
+                "sha256": "d5ae7043f2fb9d365b48dfe243a2aca1c74924de99b04b6445916c95354aefa3"
+            },
+            {
+                "filename": "paint.net.5.1.12.winmsi.x64.zip",
+                "build": "Windows x64 MSI for deployment (zip)",
+                "size_mb": 95.6,
+                "sha256": "06b19498e02ad5bf24ef1aa19f9d9021c92fe7abeec04e18aef4140eddb366e3"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/paint-net/"
+    },
+    {
+        "id": "path-of-exile",
+        "name": "Path of Exile",
+        "publisher": "Grinding Gear Games",
+        "category": "games",
+        "platforms": [
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.pathofexile.com/",
+        "official_domain": "pathofexile.com",
+        "download_page": "https://store.steampowered.com/app/238960/",
+        "released": "2013-10-23",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/path-of-exile/"
+    },
+    {
+        "id": "peazip",
+        "name": "PeaZip",
+        "publisher": "Giorgio Tani",
+        "category": "system-tools",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://peazip.github.io",
+        "official_domain": "peazip.github.io",
+        "download_page": "https://peazip.github.io/peazip-64bit.html",
+        "source_repo": "https://github.com/peazip/PeaZip",
+        "winget_id": "Giorgiotani.Peazip",
+        "version": "11.3.0",
+        "released": "2026-09-26",
+        "license": "LGPL-3.0; bundled and optional components have their own licences",
+        "files": [
+            {
+                "filename": "peazip-11.3.0.WIN64.exe",
+                "build": "Windows installer from publisher GitHub release; digest matched locally",
+                "size_mb": 11.39,
+                "sha256": "cb52763da39ef44f6b8ce3619eb76817aa8b2e4c3518c406dc5cc2857bcaeb76"
+            }
+        ],
+        "checked": "2026-09-30",
+        "details_url": "https://softwares-academy.com/software/peazip/"
+    },
+    {
+        "id": "plex",
+        "name": "Plex",
+        "publisher": "Plex, Inc.",
+        "category": "video-streaming",
+        "platforms": [
+            "android",
+            "iphone",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.plex.tv",
+        "official_domain": "plex.tv",
+        "download_page": "https://www.plex.tv/media-server-downloads/",
+        "winget_id": "Plex.PlexMediaServer",
+        "version": "1.43.4.10903",
+        "license": "Proprietary, free tier",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/plex/"
+    },
+    {
+        "id": "potplayer",
+        "name": "PotPlayer",
+        "publisher": "Kakao Corp.",
+        "category": "media-players",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://potplayer.tv",
+        "official_domain": "potplayer.tv",
+        "download_page": "https://potplayer.tv/",
+        "winget_id": "Daum.PotPlayer",
+        "version": "260819",
+        "license": "Freeware",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/potplayer/"
+    },
+    {
+        "id": "proxmox-ve",
+        "name": "Proxmox VE",
+        "publisher": "Proxmox Server Solutions GmbH",
+        "category": "homelab",
+        "platforms": [
+            "linux"
+        ],
+        "official_site": "https://www.proxmox.com/en/products/proxmox-virtual-environment/overview",
+        "official_domain": "proxmox.com",
+        "download_page": "https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso",
+        "source_repo": "https://git.proxmox.com/",
+        "version": "9.2-1",
+        "released": "2026-05-21",
+        "license": "AGPL-3.0",
+        "files": [
+            {
+                "filename": "proxmox-ve_9.2-1.iso",
+                "build": "x86-64 ISO installer",
+                "size_mb": 1627.1,
+                "sha256": "4e88fe416df9b527624a175f24c9aa07c714d3332afb1ee3dbf3879573ef2c6c"
+            },
+            {
+                "filename": "proxmox-ve_9.2-1-arm64.iso",
+                "build": "ARM64 ISO installer (released August 5, 2026)",
+                "size_mb": 1507.9,
+                "sha256": "b1619dcd1f5b1a6d67d77b59e7e2fa2033174551d1e1b9dc22b2171ec093abbd"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/proxmox-ve/"
+    },
+    {
+        "id": "prusaslicer",
+        "name": "PrusaSlicer",
+        "publisher": "Prusa Research",
+        "category": "3d-printing",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.prusa3d.com/page/prusaslicer_424/",
+        "official_domain": "prusa3d.com",
+        "download_page": "https://www.prusa3d.com/page/prusaslicer_424/",
+        "source_repo": "https://github.com/prusa3d/PrusaSlicer",
+        "winget_id": "Prusa3D.PrusaSlicer",
+        "version": "2.9.6",
+        "released": "2026-06-25",
+        "license": "AGPL-3.0",
+        "files": [
+            {
+                "filename": "PrusaSlicer-2.9.6-setup.exe",
+                "build": "Windows 10+ 64-bit installer",
+                "size_mb": 92.2,
+                "sha256": "6820d15f922908c3692cea2bdef7b5a2556fab1b7b55f4c312a89272b5eb8052"
+            },
+            {
+                "filename": "PrusaSlicer-2.9.6.zip",
+                "build": "Windows 64-bit zip",
+                "size_mb": 101.7,
+                "sha256": "5aaf22e42f95accecfa122d23a835911f289ecc2ff606db3e83d637ddcc0a209"
+            },
+            {
+                "filename": "PrusaSlicer-2.9.6.dmg",
+                "build": "macOS universal (Intel and Apple Silicon)",
+                "size_mb": 135.8,
+                "sha256": "94fd7b8a9f87c9631e1c71739b15b184fc5f4c0ceabd69072f1c78f229a4fe40"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/prusaslicer/"
+    },
+    {
+        "id": "raspberry-pi-imager",
+        "name": "Raspberry Pi Imager",
+        "publisher": "Raspberry Pi Ltd",
+        "category": "homelab",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.raspberrypi.com/software/",
+        "official_domain": "raspberrypi.com",
+        "download_page": "https://www.raspberrypi.com/software/",
+        "source_repo": "https://github.com/raspberrypi/rpi-imager",
+        "winget_id": "RaspberryPiFoundation.RaspberryPiImager",
+        "version": "2.0.11.1",
+        "released": "2026-08-17",
+        "license": "Apache-2.0",
+        "signer": "Raspberry Pi Limited",
+        "files": [
+            {
+                "filename": "imager-v2.0.11.1.exe",
+                "build": "Windows installer",
+                "size_mb": 22.5,
+                "sha256": "94ffded522f3e2a38bdb9505440229e1411b80992a616ba16b2d7e73bd794130"
+            },
+            {
+                "filename": "rpi-imager-v2.0.11.1.dmg",
+                "build": "macOS disk image",
+                "size_mb": 51.9,
+                "sha256": "2b4c5324c5ff04aa3bfb216795ae9e01cb54400752727353e13fb21e66c528a9"
+            }
+        ],
+        "checked": "2026-09-30",
+        "details_url": "https://softwares-academy.com/software/raspberry-pi-imager/"
+    },
+    {
+        "id": "rawtherapee",
+        "name": "RawTherapee",
+        "publisher": "The RawTherapee team",
+        "category": "graphics-design",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://rawtherapee.com",
+        "official_domain": "rawtherapee.com",
+        "download_page": "https://rawtherapee.com/downloads/5.13/",
+        "source_repo": "https://github.com/RawTherapee/RawTherapee",
+        "winget_id": "RawTherapee.RawTherapee",
+        "version": "5.13",
+        "released": "2026-07-26",
+        "license": "GPL-3.0",
+        "files": [
+            {
+                "filename": "RawTherapee_5.13_win64_x86_64_release.exe",
+                "build": "Windows x64 installer",
+                "size_mb": 45.1,
+                "sha256": "d27df7ebde717c5efa114338a4b1cf1c426a439e5a1a92e142e87868cbe45383"
+            },
+            {
+                "filename": "RawTherapee_5.13_win64_arm64_release.exe",
+                "build": "Windows ARM64 installer",
+                "size_mb": 38.9,
+                "sha256": "967fc854266a1ab3629e2c23ddbfcd193cb71d996ffe16fe2a542d3610701cd2"
+            },
+            {
+                "filename": "RawTherapee_5.13_x86_64_release.AppImage",
+                "build": "Linux x86_64 AppImage",
+                "size_mb": 124.1,
+                "sha256": "746a3509a234804c3a5f66649006ac29ac67f193a8559d2297357949a890b097"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/rawtherapee/"
+    },
+    {
+        "id": "rivatuner-statistics-server",
+        "name": "RivaTuner Statistics Server (RTSS)",
+        "publisher": "Unwinder, Guru3D RivaTuner team",
+        "category": "gaming-tools",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/",
+        "official_domain": "guru3d.com",
+        "download_page": "https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/",
+        "version": "7.3.7",
+        "released": "2025-09-30",
+        "license": "Freeware; redistribution outside Guru3D requires author permission",
+        "checked": "2026-10-06",
+        "details_url": "https://softwares-academy.com/software/rivatuner-statistics-server/"
+    },
+    {
+        "id": "rocket-league",
+        "name": "Rocket League",
+        "publisher": "Psyonix LLC (Epic Games)",
+        "category": "games",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.rocketleague.com",
+        "official_domain": "rocketleague.com",
+        "download_page": "https://store.epicgames.com/p/rocket-league",
+        "license": "Free to play",
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/rocket-league/"
+    },
+    {
+        "id": "rufus",
+        "name": "Rufus",
+        "publisher": "Pete Batard (Akeo Consulting)",
+        "category": "usb-boot",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://rufus.ie",
+        "official_domain": "rufus.ie",
+        "download_page": "https://github.com/pbatard/rufus/releases/tag/v4.15",
+        "source_repo": "https://github.com/pbatard/rufus",
+        "winget_id": "Rufus.Rufus",
+        "version": "4.15",
+        "released": "2026-06-30",
+        "license": "GPL-3.0-or-later",
+        "signer": "Akeo Consulting",
+        "files": [
+            {
+                "filename": "rufus-4.15.exe",
+                "build": "Windows x64, standard",
+                "size_mb": 1.99,
+                "sha256": "84c8a437f8af89257524478489e5c85f1edf25f761d299e2bcde46ac0afbe106"
+            },
+            {
+                "filename": "rufus-4.15p.exe",
+                "build": "Windows x64, 'p' build (stores settings in rufus.ini; byte-identical to rufus-4.15.exe)",
+                "size_mb": 1.99,
+                "sha256": "84c8a437f8af89257524478489e5c85f1edf25f761d299e2bcde46ac0afbe106"
+            },
+            {
+                "filename": "rufus-4.15_x86.exe",
+                "build": "Windows x86, standard",
+                "size_mb": 1.934,
+                "sha256": "20e1345715aff4aebf016839f721390882201a2b5d00655424c4ca38cb919576"
+            },
+            {
+                "filename": "rufus-4.15_arm64.exe",
+                "build": "Windows ARM64, standard",
+                "size_mb": 5.491,
+                "sha256": "af01a2136db7391eb8a52de7001fd231f0731cd27e042318dc2743d87fa35c1c"
+            }
+        ],
+        "checked": "2026-10-02",
+        "details_url": "https://softwares-academy.com/software/rufus/"
+    },
+    {
+        "id": "scribus",
+        "name": "Scribus",
+        "publisher": "The Scribus Team",
+        "category": "graphics-design",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.scribus.net",
+        "official_domain": "scribus.net",
+        "download_page": "https://www.scribus.net/downloads/",
+        "winget_id": "Scribus.Scribus",
+        "version": "1.6.6",
+        "license": "GPL-2.0-or-later",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/scribus/"
+    },
+    {
+        "id": "sharex",
+        "name": "ShareX",
+        "publisher": "ShareX Team",
+        "category": "system-tools",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://getsharex.com",
+        "official_domain": "getsharex.com",
+        "download_page": "https://getsharex.com/",
+        "source_repo": "https://github.com/ShareX/ShareX",
+        "winget_id": "ShareX.ShareX",
+        "version": "21.0.0",
+        "released": "2026-07-03",
+        "license": "GPL-3.0",
+        "files": [
+            {
+                "filename": "ShareX-21.0.0-setup-x64.exe",
+                "build": "Windows x64 installer",
+                "size_mb": 132.7,
+                "sha256": "f213aca04d30e0e2dc7c43bc79acae8622be291cee6014a90962ed87ea5f10cc"
+            },
+            {
+                "filename": "ShareX-21.0.0-portable-x64.zip",
+                "build": "Windows x64 portable ZIP",
+                "size_mb": 199.2,
+                "sha256": "8124938fa718d702bb08ef29292f0140052bdad03d23b3041b5015054ff1c230"
+            }
+        ],
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/sharex/"
+    },
+    {
+        "id": "shotcut",
+        "name": "Shotcut",
+        "publisher": "Meltytech, LLC (Dan Dennedy and contributors)",
+        "category": "video-editing",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://shotcut.org",
+        "official_domain": "shotcut.org",
+        "download_page": "https://shotcut.org/download/",
+        "source_repo": "https://github.com/mltframework/shotcut",
+        "winget_id": "Meltytech.Shotcut",
+        "version": "26.9.27",
+        "released": "2026-09-28",
+        "license": "GPL-3.0",
+        "files": [
+            {
+                "filename": "shotcut-win64-26.9.27.exe",
+                "build": "Windows 10/11 x64 installer",
+                "size_mb": 145.84,
+                "sha256": "77e1ee1f713d92bdbaff23266f416e33cde3d367f7ef518b1841ddc961d05af9"
+            },
+            {
+                "filename": "shotcut-win64-26.9.27.zip",
+                "build": "Windows 10/11 x64 portable zip",
+                "size_mb": 203.45,
+                "sha256": "1f8c50ce7b125a2f0dcb60777b358e86baf03b8515982612b6adae10a83d93a5"
+            },
+            {
+                "filename": "shotcut-win_ARM-26.9.27.exe",
+                "build": "Windows 10/11 on ARM installer",
+                "size_mb": 111.83,
+                "sha256": "364ef9bf0b2319c154280137415bf62d332ea1f584656b75f81259c20712a807"
+            },
+            {
+                "filename": "shotcut-macos-26.9.28.dmg",
+                "build": "macOS 12 or later, universal (signed)",
+                "size_mb": 200.86,
+                "sha256": "0e4c95ad41f26d96c442642e03e0c107bf98abfceea78724e2b05aa704ef79c6"
+            },
+            {
+                "filename": "shotcut-linux-x86_64-26.9.27.AppImage",
+                "build": "Linux x86_64 AppImage",
+                "size_mb": 207.71,
+                "sha256": "a3da4b409d29b31294fe5097bb8c3f031d1e2cb0c14ff71717d1a7d4658e62de"
+            },
+            {
+                "filename": "shotcut-linux-x86_64-26.9.27.txz",
+                "build": "Linux x86_64 portable tar",
+                "size_mb": 146.53,
+                "sha256": "849da6bbd24737f9edd07ba185b46982f2fb330981c05e1752809e85bcbb7e7b"
+            }
+        ],
+        "checked": "2026-09-30",
+        "details_url": "https://softwares-academy.com/software/shotcut/"
+    },
+    {
+        "id": "signal",
+        "name": "Signal",
+        "publisher": "Signal Messenger, LLC",
+        "category": "communication",
+        "platforms": [
+            "android",
+            "iphone",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://signal.org",
+        "official_domain": "signal.org",
+        "download_page": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms",
+        "source_repo": "https://github.com/signalapp/Signal-Desktop",
+        "winget_id": "OpenWhisperSystems.Signal",
+        "version": "8.28.0",
+        "released": "2026-09-23",
+        "license": "AGPL-3.0",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/signal/"
+    },
+    {
+        "id": "slack",
+        "name": "Slack",
+        "publisher": "Slack Technologies, LLC",
+        "category": "communication",
+        "platforms": [
+            "android",
+            "iphone",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://slack.com",
+        "official_domain": "slack.com",
+        "download_page": "https://slack.com/downloads/windows",
+        "winget_id": "SlackTechnologies.Slack",
+        "version": "4.52.162",
+        "license": "Proprietary, free tier",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/slack/"
+    },
+    {
+        "id": "special-k",
+        "name": "Special K",
+        "publisher": "Kaldaien and the Special K team (GitHub: SpecialKO)",
+        "category": "gaming-tools",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.special-k.info/",
+        "official_domain": "special-k.info",
+        "download_page": "https://github.com/SpecialKO/SpecialK/releases/tag/SK_26_9_25",
+        "source_repo": "https://github.com/SpecialKO/SpecialK",
+        "version": "SK_26_9_25 (GitHub archive)",
+        "released": "2026-09-25",
+        "license": "GPL-3.0 (framework; component notices apply)",
+        "files": [
+            {
+                "filename": "SpecialK.7z",
+                "build": "GitHub tag SK_26_9_25; measured archive hash, contents not inspected; separate from installer and Store",
+                "size_mb": 6.17,
+                "sha256": "a36a316d421faad8df8865c6a63d520e254a886b185e9c42251d5b1f8d8fe270"
+            }
+        ],
+        "checked": "2026-10-06",
+        "details_url": "https://softwares-academy.com/software/special-k/"
+    },
+    {
+        "id": "spotify",
+        "name": "Spotify",
+        "publisher": "Spotify AB",
+        "category": "media-players",
+        "platforms": [
+            "android",
+            "iphone",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.spotify.com",
+        "official_domain": "spotify.com",
+        "download_page": "https://www.spotify.com/us/download/windows/",
+        "winget_id": "Spotify.Spotify",
+        "license": "Proprietary, free tier",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/spotify/"
+    },
+    {
+        "id": "steam",
+        "name": "Steam",
+        "publisher": "Valve Corporation",
+        "category": "gaming-tools",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://store.steampowered.com",
+        "official_domain": "store.steampowered.com",
+        "download_page": "https://store.steampowered.com/about/",
+        "winget_id": "Valve.Steam",
+        "license": "Proprietary (free)",
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/steam/"
+    },
+    {
+        "id": "sweet-home-3d",
+        "name": "Sweet Home 3D",
+        "publisher": "eTeks (Emmanuel Puybaret)",
+        "category": "graphics-design",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.sweethome3d.com",
+        "official_domain": "sweethome3d.com",
+        "download_page": "https://www.sweethome3d.com/download/",
+        "source_repo": "https://sourceforge.net/projects/sweethome3d/",
+        "winget_id": "eTeks.SweetHome3D",
+        "version": "7.5",
+        "released": "2024-08-21",
+        "license": "GPL-2.0-or-later",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/sweet-home-3d/"
+    },
+    {
+        "id": "team-fortress-2",
+        "name": "Team Fortress 2",
+        "publisher": "Valve",
+        "category": "games",
+        "platforms": [
+            "linux",
+            "windows"
+        ],
+        "official_site": "https://www.teamfortress.com/",
+        "official_domain": "teamfortress.com",
+        "download_page": "https://store.steampowered.com/app/440/",
+        "released": "2007-10-10",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/team-fortress-2/"
+    },
+    {
+        "id": "telegram",
+        "name": "Telegram",
+        "publisher": "Telegram FZ-LLC",
+        "category": "communication",
+        "platforms": [
+            "android",
+            "iphone",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://telegram.org",
+        "official_domain": "telegram.org",
+        "download_page": "https://desktop.telegram.org/",
+        "source_repo": "https://github.com/telegramdesktop/tdesktop",
+        "winget_id": "Telegram.TelegramDesktop",
+        "version": "7.2.9",
+        "released": "2026-09-17",
+        "license": "GPL-3.0 (with OpenSSL exception)",
+        "files": [
+            {
+                "filename": "td-setup-win-x64-7.2.9.exe",
+                "build": "Windows x64 installer",
+                "size_mb": 53.1,
+                "sha256": "0e857e62fac5865469374a440e6791262c4d099032f2a38ae97a4d75792acf7d"
+            },
+            {
+                "filename": "td-setup-win-arm-7.2.9.exe",
+                "build": "Windows ARM64 installer",
+                "size_mb": 49.5,
+                "sha256": "e0fb305c44b9690d0b5e8e086ef83f5e607ca67dff241a652186eaee191699fb"
+            },
+            {
+                "filename": "td-setup-win-x86-7.2.9.exe",
+                "build": "Windows x86 (32-bit) installer",
+                "size_mb": 47.9,
+                "sha256": "9cebb5b0d486e4870fe28df96bfab8f42230315721ebedbe9826e255822c26ba"
+            },
+            {
+                "filename": "td-portable-win-x64-7.2.9.zip",
+                "build": "Windows x64 portable ZIP",
+                "size_mb": 67.9,
+                "sha256": "55bdf26ed8160ef40cbb8889f2715e2c9f41733a3715a5e0c23a03bd2988095f"
+            },
+            {
+                "filename": "td-setup-mac-7.2.9.dmg",
+                "build": "macOS",
+                "size_mb": 148,
+                "sha256": "526aad8d40617fafaa27acb52dd0f5df451cd4683fb7fd63666aece164282bf4"
+            },
+            {
+                "filename": "td-setup-linux-x64-7.2.9.tar.xz",
+                "build": "Linux x64",
+                "size_mb": 75.5,
+                "sha256": "dc0698eb8011ed4e75f1fad9d55a8ab54e375c9791b9c577baa6073d9a4c50fa"
+            }
+        ],
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/telegram/"
+    },
+    {
+        "id": "the-finals",
+        "name": "THE FINALS",
+        "publisher": "Embark Studios",
+        "category": "games",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.reachthefinals.com/",
+        "official_domain": "reachthefinals.com",
+        "download_page": "https://store.steampowered.com/app/2073850/",
+        "released": "2023-12-07",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/the-finals/"
+    },
+    {
+        "id": "truenas",
+        "name": "TrueNAS Community Edition",
+        "publisher": "iXsystems, Inc. (TrueNAS)",
+        "category": "homelab",
+        "platforms": [
+            "linux"
+        ],
+        "official_site": "https://www.truenas.com/truenas-community-edition/",
+        "official_domain": "truenas.com",
+        "download_page": "https://www.truenas.com/download/",
+        "source_repo": "https://github.com/truenas",
+        "version": "25.10.7",
+        "released": "2026-09-02",
+        "license": "Open source (GPL-3.0 and LGPL-3.0 repositories)",
+        "files": [
+            {
+                "filename": "TrueNAS-SCALE-25.10.7.iso",
+                "build": "x86-64 ISO installer (25.10.7, Goldeye)",
+                "size_mb": 2230.9,
+                "sha256": "54ce9441ce66966a392e28f63604ca3c2c083d0bec4db7bb5af2f74f7a007c8e"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/truenas/"
+    },
+    {
+        "id": "ultimaker-cura",
+        "name": "UltiMaker Cura",
+        "publisher": "UltiMaker",
+        "category": "3d-printing",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://ultimaker.com/software/ultimaker-cura/",
+        "official_domain": "ultimaker.com",
+        "download_page": "https://ultimaker.com/software/ultimaker-cura/",
+        "source_repo": "https://github.com/Ultimaker/Cura",
+        "winget_id": "Ultimaker.Cura",
+        "version": "5.13.0",
+        "released": "2026-05-28",
+        "license": "LGPL-3.0",
+        "files": [
+            {
+                "filename": "UltiMaker-Cura-5.13.0-win64-X64.exe",
+                "build": "Windows 64-bit installer",
+                "size_mb": 157.7,
+                "sha256": "6edb3c4394e6e4ecb6b00f3e96d70e1ea53652c57a9626b58f8fda56e291aa6d"
+            },
+            {
+                "filename": "UltiMaker-Cura-5.13.0-win64-X64.msi",
+                "build": "Windows 64-bit enterprise MSI",
+                "size_mb": 171.5,
+                "sha256": "d049b1e9bd80adb2defbb76fcd8e5bfc395e297bd0141b4f2894e37d09d1c33c"
+            },
+            {
+                "filename": "UltiMaker-Cura-5.13.0-macos-ARM64.dmg",
+                "build": "macOS Apple Silicon",
+                "size_mb": 164.1,
+                "sha256": "1483806486a19728bc0f363f847d75be3f179ea43c7f074bfc327f5b5c6e05ad"
+            },
+            {
+                "filename": "UltiMaker-Cura-5.13.0-macos-X64.dmg",
+                "build": "macOS Intel",
+                "size_mb": 182.6,
+                "sha256": "341ea41e0bc7a75361823cf9720c1d1ded9a8b2f3c4d791de2266f8d647f5d85"
+            },
+            {
+                "filename": "UltiMaker-Cura-5.13.0-linux-X64.AppImage",
+                "build": "Linux x64 AppImage",
+                "size_mb": 318.7,
+                "sha256": "100f068127b2598167f00ba4db0e0699ded45adf97bbab2d22ff171a1e1ecc40"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/ultimaker-cura/"
+    },
+    {
+        "id": "unraid",
+        "name": "Unraid OS",
+        "publisher": "Lime Technology, Inc.",
+        "category": "homelab",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://unraid.net/",
+        "official_domain": "unraid.net",
+        "download_page": "https://unraid.net/download",
+        "version": "7.3.2",
+        "released": "2026-07-08",
+        "license": "Commercial (perpetual license)",
+        "files": [
+            {
+                "filename": "unraid-installer-7.3.2-online.iso",
+                "build": "Unraid Installer ISO (online, downloads Unraid OS during install)",
+                "size_mb": 165.3,
+                "sha256": "01054eb4c1f73395310ca21f6b32cd1e2f705670bd4a09c8549ed5e66a4b12ee"
+            },
+            {
+                "filename": "unraid-installer-7.3.2-online.img.zip",
+                "build": "Unraid Installer disk image (online)",
+                "size_mb": 152.1,
+                "sha256": "474de4fb711de75ea0a70be17bd51a6d853b680fba2233502c4d6ac72b9563d2"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/unraid/"
+    },
+    {
+        "id": "uvtools",
+        "name": "UVtools",
+        "publisher": "Tiago Conceição (sn4k3, PTRTECH)",
+        "category": "3d-printing",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://github.com/sn4k3/UVtools",
+        "official_domain": "github.com",
+        "download_page": "https://github.com/sn4k3/UVtools/releases/latest",
+        "source_repo": "https://github.com/sn4k3/UVtools",
+        "winget_id": "PTRTECH.UVtools",
+        "version": "7.0.0",
+        "released": "2026-09-19",
+        "license": "AGPL-3.0",
+        "files": [
+            {
+                "filename": "UVtools_win-x64_v7.0.0.msi",
+                "build": "Windows x64 installer (MSI)",
+                "size_mb": 89.3,
+                "sha256": "a38df772e274ac38e7fd9ec4aabc2ead68d97872fe8ff14c7e5d6bd4e6df434c"
+            },
+            {
+                "filename": "UVtools_win-arm64_v7.0.0.msi",
+                "build": "Windows ARM64 installer (MSI)",
+                "size_mb": 75.5,
+                "sha256": "211f70bf4817c820d62f0823dd3232f31b0750fd4825a58d5d6ee3e55c86476f"
+            },
+            {
+                "filename": "UVtools_osx-arm64_v7.0.0.zip",
+                "build": "macOS Apple Silicon (ZIP)",
+                "size_mb": 66.8,
+                "sha256": "d33940889c87fc879fcb0a0315dc1752c6d91b9ea9c3917e0a27a6bacda385c8"
+            },
+            {
+                "filename": "UVtools_osx-x64_v7.0.0.zip",
+                "build": "macOS Intel (ZIP)",
+                "size_mb": 70,
+                "sha256": "d9419347188441dc28df76f84cf3c22e220a5ecad5e0afde09556cc3d4789c38"
+            },
+            {
+                "filename": "UVtools_linux-x64_v7.0.0.AppImage",
+                "build": "Linux x64 AppImage",
+                "size_mb": 75.8,
+                "sha256": "c07a473d6c20829567174896e91b0506d4bcfd800798c88ab1b63c910b469dc6"
+            },
+            {
+                "filename": "UVtools_linux-arm64_v7.0.0.AppImage",
+                "build": "Linux ARM64 AppImage",
+                "size_mb": 60.7,
+                "sha256": "8bb0298c7dbb0dcf24cd0636670be8023e4b82708d32266959ed67efc6adb13f"
+            },
+            {
+                "filename": "UVtools_linux-x64_v7.0.0.deb",
+                "build": "Linux x64 .deb package",
+                "size_mb": 63.2,
+                "sha256": "caea074ab6f48cf94d4cca846cd8d3bb532ca1553a26be22e321997a8d2d9ef3"
+            }
+        ],
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/uvtools/"
+    },
+    {
+        "id": "valorant",
+        "name": "VALORANT",
+        "publisher": "Riot Games",
+        "category": "games",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://playvalorant.com/en-us/",
+        "official_domain": "playvalorant.com",
+        "download_page": "https://playvalorant.com/en-us/download/",
+        "winget_id": "RiotGames.Valorant.NA",
+        "released": "2020-06-02",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/valorant/"
+    },
+    {
+        "id": "ventoy",
+        "name": "Ventoy",
+        "publisher": "longpanda (Ventoy project)",
+        "category": "usb-boot",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://www.ventoy.net",
+        "official_domain": "ventoy.net",
+        "download_page": "https://github.com/ventoy/Ventoy/releases/latest",
+        "source_repo": "https://github.com/ventoy/Ventoy",
+        "winget_id": "Ventoy.Ventoy",
+        "version": "1.1.17",
+        "released": "2026-07-24",
+        "license": "GPL-3.0",
+        "files": [
+            {
+                "filename": "ventoy-1.1.17-windows.zip",
+                "build": "Windows package (Ventoy2Disk.exe, VentoyPlugson.exe, VentoyVlnk.exe)",
+                "size_mb": 15.88,
+                "sha256": "d250e97a7595fdac4f97debc630d7a8da942319274a76cb32384596b659dbaeb"
+            },
+            {
+                "filename": "ventoy-1.1.17-linux.tar.gz",
+                "build": "Linux package (Ventoy2Disk.sh)",
+                "size_mb": 19.35,
+                "sha256": "7fb4ed08cef6a6b4d39dd19260d8c80291a78dfdf9af7d461571e23cbbc43805"
+            },
+            {
+                "filename": "ventoy-1.1.17-livecd.iso",
+                "build": "LiveCD ISO for installing Ventoy from a booted environment",
+                "size_mb": 186.88,
+                "sha256": "a8c66e94e04ee8c7ec4a8474ea576f4fbf26641e344ad223d711752628d0a814"
+            }
+        ],
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/ventoy/"
+    },
+    {
+        "id": "vlc",
+        "name": "VLC media player",
+        "publisher": "VideoLAN",
+        "category": "media-players",
+        "platforms": [
+            "android",
+            "iphone",
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.videolan.org/vlc/",
+        "official_domain": "videolan.org",
+        "download_page": "https://www.videolan.org/vlc/download-windows.html",
+        "source_repo": "https://code.videolan.org/videolan/vlc",
+        "winget_id": "VideoLAN.VLC",
+        "version": "3.0.24",
+        "released": "2026-09-22",
+        "license": "GPL-2.0-or-later",
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/vlc/"
+    },
+    {
+        "id": "war-thunder",
+        "name": "War Thunder",
+        "publisher": "Gaijin Entertainment",
+        "category": "games",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://warthunder.com/en",
+        "official_domain": "warthunder.com",
+        "download_page": "https://store.steampowered.com/app/236390/",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/war-thunder/"
+    },
+    {
+        "id": "warframe",
+        "name": "Warframe",
+        "publisher": "Digital Extremes",
+        "category": "games",
+        "platforms": [
+            "android",
+            "iphone",
+            "windows"
+        ],
+        "official_site": "https://www.warframe.com",
+        "official_domain": "warframe.com",
+        "download_page": "https://www.warframe.com/download",
+        "license": "Free to play",
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/warframe/"
+    },
+    {
+        "id": "windhawk",
+        "name": "Windhawk",
+        "publisher": "Ramen Software (Michael Maltsev, GitHub: m417z)",
+        "category": "system-tools",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://windhawk.net",
+        "official_domain": "windhawk.net",
+        "download_page": "https://github.com/ramensoftware/windhawk/releases/latest",
+        "source_repo": "https://github.com/ramensoftware/windhawk",
+        "winget_id": "RamenSoftware.Windhawk",
+        "version": "1.7.3",
+        "released": "2025-12-08",
+        "license": "GPL-3.0",
+        "signer": "Open Source Developer, Michael Maltsev",
+        "files": [
+            {
+                "filename": "windhawk_setup.exe",
+                "build": "Online installer (downloads dependencies when needed)",
+                "size_mb": 11.03,
+                "sha256": "5116cc1703384aac88b8d7a3b57f172aea5da32b6df7355fb2f8247d23813c8f"
+            },
+            {
+                "filename": "windhawk_setup_offline.exe",
+                "build": "Offline installer (all dependencies included)",
+                "size_mb": 142.02,
+                "sha256": "4d93016570f982326eebdfc9068e924ff21f6448534ea32672bb4c1d52a8193b"
+            }
+        ],
+        "known_impostors": [
+            {
+                "domain": "windhawk.org",
+                "source": "https://github.com/ramensoftware/windhawk/discussions/900"
+            }
+        ],
+        "checked": "2026-09-25",
+        "details_url": "https://softwares-academy.com/software/windhawk/"
+    },
+    {
+        "id": "winrar",
+        "name": "WinRAR",
+        "publisher": "win.rar GmbH (author: Alexander Roshal)",
+        "category": "system-tools",
+        "platforms": [
+            "android",
+            "windows"
+        ],
+        "official_site": "https://www.win-rar.com",
+        "official_domain": "win-rar.com",
+        "download_page": "https://www.win-rar.com/download.html",
+        "winget_id": "RARLab.WinRAR",
+        "version": "7.23",
+        "license": "Proprietary shareware (40-day trial)",
+        "signer": "win.rar GmbH",
+        "files": [
+            {
+                "filename": "winrar-x64-723.exe",
+                "build": "Windows x64 English 7.23 from win-rar.com (digest matched)",
+                "size_mb": 3.8,
+                "sha256": "f435b24d4c2c5342c4f7c0143ef358f0f425b7b8a0972dd34d9dcf94789e9c4d"
+            }
+        ],
+        "checked": "2026-09-30",
+        "details_url": "https://softwares-academy.com/software/winrar/"
+    },
+    {
+        "id": "winutil",
+        "name": "WinUtil (Chris Titus Tech's Windows Utility)",
+        "publisher": "Chris Titus Tech and contributors (GitHub: ChrisTitusTech)",
+        "category": "system-tools",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://winutil.christitus.com",
+        "official_domain": "winutil.christitus.com",
+        "download_page": "https://github.com/ChrisTitusTech/winutil/releases/tag/26.08.19",
+        "source_repo": "https://github.com/ChrisTitusTech/winutil",
+        "version": "26.08.19",
+        "released": "2026-08-19",
+        "license": "MIT",
+        "files": [
+            {
+                "filename": "winutil.ps1",
+                "build": "PowerShell script (run as administrator)",
+                "size_mb": 0.748,
+                "sha256": "5dd76f9f26c78afee628b8d4c75c43a9de7b5867d83be80deea35aabad0cda8a"
+            }
+        ],
+        "checked": "2026-10-02",
+        "details_url": "https://softwares-academy.com/software/winutil/"
+    },
+    {
+        "id": "world-of-tanks",
+        "name": "World of Tanks",
+        "publisher": "Wargaming",
+        "category": "games",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://worldoftanks.com/",
+        "official_domain": "worldoftanks.com",
+        "download_page": "https://store.steampowered.com/app/1407200/",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/world-of-tanks/"
+    },
+    {
+        "id": "world-of-warships",
+        "name": "World of Warships",
+        "publisher": "Wargaming",
+        "category": "games",
+        "platforms": [
+            "windows"
+        ],
+        "official_site": "https://worldofwarships.com/",
+        "official_domain": "worldofwarships.com",
+        "download_page": "https://store.steampowered.com/app/552990/",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/world-of-warships/"
+    },
+    {
+        "id": "wuthering-waves",
+        "name": "Wuthering Waves",
+        "publisher": "Kuro Games",
+        "category": "games",
+        "platforms": [
+            "android",
+            "iphone",
+            "windows"
+        ],
+        "official_site": "https://wutheringwaves.kurogames.com/en/main",
+        "official_domain": "wutheringwaves.kurogames.com",
+        "download_page": "https://store.steampowered.com/app/3513350/",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/wuthering-waves/"
+    },
+    {
+        "id": "xnview-mp",
+        "name": "XnView MP",
+        "publisher": "XnSoft (Pierre Gougelet)",
+        "category": "graphics-design",
+        "platforms": [
+            "linux",
+            "mac",
+            "windows"
+        ],
+        "official_site": "https://www.xnview.com/en/xnview-mp/",
+        "official_domain": "xnview.com",
+        "download_page": "https://www.xnview.com/en/xnview-mp/",
+        "winget_id": "XnSoft.XnViewMP",
+        "version": "1.11.7",
+        "license": "Freeware for private and educational use; paid licence for company use",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/xnview-mp/"
+    },
+    {
+        "id": "zenless-zone-zero",
+        "name": "Zenless Zone Zero",
+        "publisher": "HoYoverse (COGNOSPHERE PTE. LTD.)",
+        "category": "games",
+        "platforms": [
+            "android",
+            "iphone",
+            "windows"
+        ],
+        "official_site": "https://zenless.hoyoverse.com/en-us/main",
+        "official_domain": "zenless.hoyoverse.com",
+        "download_page": "https://store.steampowered.com/app/4162040/",
+        "license": "Free to play",
+        "checked": "2026-09-26",
+        "details_url": "https://softwares-academy.com/software/zenless-zone-zero/"
+    }
+]
