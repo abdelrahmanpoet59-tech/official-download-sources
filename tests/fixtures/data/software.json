@@ -1,0 +1,7 @@
+[
+  {"name":"Fixture app","official_domain":"official.example","official_site":"https://official.example/","checked":"2026-10-01"},
+  {"name":"Explicit subdomain app","official_domain":"listed.official.example","checked":"2026-10-02"},
+  {"name":"IDN app","official_domain":"xn--bcher-kva.example","checked":"2026-10-03"},
+  {"name":"Undated app","official_domain":"undated.example"},
+  {"name":"Conflicting fixture","official_domain":"reported.example","checked":"2026-10-02"}
+]
