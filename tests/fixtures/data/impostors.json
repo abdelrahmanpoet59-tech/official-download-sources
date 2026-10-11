@@ -1,0 +1,4 @@
+[
+  {"software":"Fixture app","impostor_domain":"reported.example","classification":"unofficial-warned","official_domains":["official.example"],"source_name":"Fixture publisher","source_url":"https://publisher.example/report","first_reported":"2026-09-30"},
+  {"software":"Undated fixture","impostor_domain":"undated.reported.example","classification":"unofficial-warned","official_domains":["official.example"],"source_name":"Fixture publisher","source_url":"https://publisher.example/undated-report"}
+]
