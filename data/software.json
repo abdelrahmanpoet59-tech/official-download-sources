@@ -842,7 +842,7 @@
         "winget_id": "Rem0o.FanControl",
         "version": "V281",
         "released": "2026-09-26",
-        "license": "Freeware, closed source (bundled libraries under their own open-source licenses)",
+        "license": "Free for personal and non-commercial use; proprietary/closed source (bundled libraries retain their own open-source licenses)",
         "signer": "Rémi Mercier",
         "files": [
             {
@@ -870,6 +870,16 @@
                 "sha256": "09dc4d4574aca6a3d62b7b697443a6323add80bcfe002a663fecda7d9b307cea"
             }
         ],
+        "source_check": {
+            "date": "2026-10-11",
+            "fields": [
+                "license"
+            ],
+            "sources": [
+                "https://github.com/Rem0o/FanControl.Releases/blob/master/LICENSE"
+            ],
+            "method": "Publisher metadata only; no installation, hardware or Authenticode test."
+        },
         "checked": "2026-09-30",
         "details_url": "https://softwares-academy.com/software/fancontrol/"
     },
@@ -3421,33 +3431,48 @@
         ],
         "official_site": "https://www.ventoy.net",
         "official_domain": "ventoy.net",
-        "download_page": "https://github.com/ventoy/Ventoy/releases/latest",
+        "download_page": "https://github.com/ventoy/Ventoy/releases/tag/v1.1.18",
         "source_repo": "https://github.com/ventoy/Ventoy",
         "winget_id": "Ventoy.Ventoy",
-        "version": "1.1.17",
-        "released": "2026-07-24",
+        "version": "1.1.18",
+        "released": "2026-10-09",
         "license": "GPL-3.0",
         "files": [
             {
-                "filename": "ventoy-1.1.17-windows.zip",
+                "filename": "ventoy-1.1.18-windows.zip",
                 "build": "Windows package (Ventoy2Disk.exe, VentoyPlugson.exe, VentoyVlnk.exe)",
-                "size_mb": 15.88,
-                "sha256": "d250e97a7595fdac4f97debc630d7a8da942319274a76cb32384596b659dbaeb"
+                "size_mb": 16.68,
+                "sha256": "082c478e8c432e1ac653899fcf50e3a4077a2851bc6112b5ddd30545962164a9"
             },
             {
-                "filename": "ventoy-1.1.17-linux.tar.gz",
+                "filename": "ventoy-1.1.18-linux.tar.gz",
                 "build": "Linux package (Ventoy2Disk.sh)",
-                "size_mb": 19.35,
-                "sha256": "7fb4ed08cef6a6b4d39dd19260d8c80291a78dfdf9af7d461571e23cbbc43805"
+                "size_mb": 20.32,
+                "sha256": "d86ff9de63d94c8b8f1f6b14d23c55af4b88e8207bf2893890892a6a97b1ad54"
             },
             {
-                "filename": "ventoy-1.1.17-livecd.iso",
+                "filename": "ventoy-1.1.18-livecd.iso",
                 "build": "LiveCD ISO for installing Ventoy from a booted environment",
-                "size_mb": 186.88,
-                "sha256": "a8c66e94e04ee8c7ec4a8474ea576f4fbf26641e344ad223d711752628d0a814"
+                "size_mb": 195.99,
+                "sha256": "ee3917bd5a9973c0b2f8f3ef85048bf68ae089ec88f5561ad78b6ad308b51ab5"
             }
         ],
-        "checked": "2026-09-25",
+        "source_check": {
+            "date": "2026-10-11",
+            "fields": [
+                "version",
+                "released",
+                "download_page",
+                "files[].filename",
+                "files[].sha256",
+                "files[].size_mb"
+            ],
+            "sources": [
+                "https://github.com/ventoy/Ventoy/releases/tag/v1.1.18"
+            ],
+            "method": "Publisher metadata only; no installation, hardware or Authenticode test."
+        },
+        "checked": "2026-10-11",
         "details_url": "https://softwares-academy.com/software/ventoy/"
     },
     {
@@ -3528,13 +3553,13 @@
             {
                 "filename": "windhawk_setup.exe",
                 "build": "Online installer (downloads dependencies when needed)",
-                "size_mb": 11.03,
+                "size_mb": 11.57,
                 "sha256": "5116cc1703384aac88b8d7a3b57f172aea5da32b6df7355fb2f8247d23813c8f"
             },
             {
                 "filename": "windhawk_setup_offline.exe",
                 "build": "Offline installer (all dependencies included)",
-                "size_mb": 142.02,
+                "size_mb": 148.92,
                 "sha256": "4d93016570f982326eebdfc9068e924ff21f6448534ea32672bb4c1d52a8193b"
             }
         ],
@@ -3544,6 +3569,16 @@
                 "source": "https://github.com/ramensoftware/windhawk/discussions/900"
             }
         ],
+        "source_check": {
+            "date": "2026-10-11",
+            "fields": [
+                "files[].size_mb"
+            ],
+            "sources": [
+                "https://github.com/ramensoftware/windhawk/releases/tag/v1.7.3"
+            ],
+            "method": "Publisher metadata only; no installation, hardware or Authenticode test."
+        },
         "checked": "2026-09-25",
         "details_url": "https://softwares-academy.com/software/windhawk/"
     },
