@@ -13,7 +13,7 @@ Maintained by [Abdelrahman Mohammed](https://softwares-academy.com/about/) at [S
 | [`data/software.json`](data/software.json) | One record per program: official site and domain, download page, source repository, winget ID, version, release date, licence, expected signer, files with SHA-256, and the date the data was checked. |
 | [`data/impostors.json`](data/impostors.json) | Domains that a publisher, security vendor, CERT or major outlet has named as fake, unofficial or malicious, each with its source link. |
 | [`tools/Test-Download.ps1`](tools/Test-Download.ps1) | Checks a downloaded file against the dataset (SHA-256 plus Authenticode signer). |
-| [`tools/Test-DownloadSite.ps1`](tools/Test-DownloadSite.ps1) | Tells you whether a site is the official one, a reported impostor, or unknown. Handles look-alike Unicode domains. |
+| [`tools/Test-DownloadSite.ps1`](tools/Test-DownloadSite.ps1) | Compares the exact recorded HTTP(S) host with official or reported hosts; otherwise returns unknown. Normalizes Unicode, `www.` and trailing DNS dots. |
 | [`schema/`](schema) | JSON Schemas for both data files. |
 
 ## Check a file in 10 seconds (Windows PowerShell)
@@ -27,7 +27,21 @@ Check a site before you download:
 
 ```powershell
 .\tools\Test-DownloadSite.ps1 -Url https://7zip.com/
-# REPORTED  7zip.com  (reported-malicious) - impersonates 7-Zip
+# REPORTED  7zip.com  (reported-malicious) - source report concerning 7-Zip
+```
+
+The site checker does not visit the URL. Unlisted subdomains never inherit a
+parent domain's official or reported result. A host match does not verify a
+URL path on GitHub or another shared host, redirects, current ownership, or
+the safety of a file. Results include the recorded check/report date and
+source; old records are not a guarantee of current status. URLs containing
+credentials or schemes other than HTTP(S) are rejected.
+
+Site checker exit codes: `0` recorded official host, `1` unknown,
+`2` cited report, `3` invalid input. Run the offline regression tests with:
+
+```powershell
+.\tests\Test-DownloadSite.Tests.ps1
 ```
 
 Possible results for a file:
