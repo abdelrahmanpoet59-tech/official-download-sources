@@ -587,18 +587,18 @@
         "official_domain": "decky.xyz",
         "download_page": "https://github.com/SteamDeckHomebrew/decky-loader",
         "source_repo": "https://github.com/SteamDeckHomebrew/decky-loader",
-        "version": "3.2.9",
-        "released": "2026-09-15",
+        "version": "3.2.10",
+        "released": "2026-10-04",
         "license": "GPL-2.0",
         "files": [
             {
                 "filename": "PluginLoader",
-                "build": "Linux x86-64 loader binary (v3.2.9; the installer downloads this for you)",
+                "build": "Linux x86-64 loader binary (v3.2.10; the installer downloads this for you)",
                 "size_mb": 24.9,
-                "sha256": "0a5246db98f2df93a6685ac8230e0acfbfa6e91d99b41b8dbbf1f94c308dedce"
+                "sha256": "c2cf316a53e1c1d318c6dda8821c827e5db275922987f9097956d7a1576e8258"
             }
         ],
-        "checked": "2026-09-26",
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/decky-loader/"
     },
     {
@@ -634,7 +634,15 @@
         "version": "9.1.0",
         "released": "2026-06-07",
         "license": "GPL-2.0-or-later",
-        "checked": "2026-09-26",
+        "files": [
+            {
+                "filename": "digiKam-9.1.0-Qt6-Win64.exe",
+                "build": "Windows x64 installer (Qt6)",
+                "size_mb": 261.7,
+                "sha256": "28ef373ab45ecc7eb1fd105b57828a29588504eb5a286c9e89c987c056bce8be"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/digikam/"
     },
     {
@@ -842,7 +850,7 @@
         "winget_id": "Rem0o.FanControl",
         "version": "V281",
         "released": "2026-09-26",
-        "license": "Free for personal and non-commercial use; proprietary/closed source (bundled libraries retain their own open-source licenses)",
+        "license": "Proprietary; personal and non-commercial use only. Bundled libraries retain their own licences.",
         "signer": "Rémi Mercier",
         "files": [
             {
@@ -870,16 +878,6 @@
                 "sha256": "09dc4d4574aca6a3d62b7b697443a6323add80bcfe002a663fecda7d9b307cea"
             }
         ],
-        "source_check": {
-            "date": "2026-10-11",
-            "fields": [
-                "license"
-            ],
-            "sources": [
-                "https://github.com/Rem0o/FanControl.Releases/blob/master/LICENSE"
-            ],
-            "method": "Publisher metadata only; no installation, hardware or Authenticode test."
-        },
         "checked": "2026-09-30",
         "details_url": "https://softwares-academy.com/software/fancontrol/"
     },
@@ -898,7 +896,16 @@
         "version": "8.5",
         "released": "2026-06-24",
         "license": "Freeware for personal and educational use; paid licence for commercial use",
-        "checked": "2026-09-26",
+        "signer": "FastStone Corporation",
+        "files": [
+            {
+                "filename": "FSViewerSetup85.exe",
+                "build": "Windows installer",
+                "size_mb": 11.9,
+                "sha256": "5679d7b5cbc5bf6e222230eba6f38f52798de830a89de9aaea409ac55f5f6c38"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/faststone-image-viewer/"
     },
     {
@@ -977,10 +984,19 @@
         "official_domain": "foobar2000.org",
         "download_page": "https://www.foobar2000.org/windows",
         "winget_id": "PeterPawlowski.foobar2000",
-        "version": "2.25.10",
-        "released": "2026-06-26",
+        "version": "2.26.1",
+        "released": "2026-10-09",
         "license": "Freeware",
-        "checked": "2026-09-26",
+        "signer": "Illustrate Ltd",
+        "files": [
+            {
+                "filename": "foobar2000-x64_v2.26.1.exe",
+                "build": "Windows x64 installer",
+                "size_mb": 7.6,
+                "sha256": "72fe15a88b085ee4e49d68114e2bb9655000c2e0fdf40dcc128bbef8bcaf3600"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/foobar2000/"
     },
     {
@@ -1123,7 +1139,16 @@
         "version": "3.2.6",
         "released": "2026-09-10",
         "license": "GPL-3.0-or-later",
-        "checked": "2026-09-25",
+        "signer": "Jernej Simončič",
+        "files": [
+            {
+                "filename": "gimp-3.2.6-setup.exe",
+                "build": "Windows installer (x64 and ARM64)",
+                "size_mb": 181.5,
+                "sha256": "9337cccbc01d4098ee7a3dab215b3afbe6ece99c5287c92441d6f12cf541ebca"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/gimp/"
     },
     {
@@ -1398,7 +1423,15 @@
         "version": "1.4.4",
         "released": "2026-05-06",
         "license": "GPL-2.0-or-later",
-        "checked": "2026-09-26",
+        "files": [
+            {
+                "filename": "inkscape-1.4.4_2026-05-05_dcaf3e7-x64.signed.exe",
+                "build": "Windows 64-bit installer",
+                "size_mb": 113,
+                "sha256": "fa21d25e56dbfe41e9b014a4f37689edda4bb41d5a3597fe2787dff6c10e651f"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/inkscape/"
     },
     {
@@ -1474,10 +1507,19 @@
         "download_page": "https://kdenlive.org/download/",
         "source_repo": "https://invent.kde.org/multimedia/kdenlive",
         "winget_id": "KDE.Kdenlive",
-        "version": "26.08.1",
-        "released": "2026-09-11",
+        "version": "26.08.2",
+        "released": "2026-10-13",
         "license": "GPL-3.0",
-        "checked": "2026-09-26",
+        "signer": "K Desktop Environment e.V.",
+        "files": [
+            {
+                "filename": "kdenlive-26.08.2.exe",
+                "build": "Windows installer (not the standalone build)",
+                "size_mb": 129.4,
+                "sha256": "9f89d8ac53b190ba506af86fb37b31f17b60a532394bd5303af4e505b3a5bee6"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/kdenlive/"
     },
     {
@@ -1576,10 +1618,19 @@
         "download_page": "https://krita.org/en/download/",
         "source_repo": "https://invent.kde.org/graphics/krita",
         "winget_id": "KDE.Krita",
-        "version": "5.3.4",
-        "released": "2026-09-15",
+        "version": "5.3.4.1",
+        "released": "2026-10-07",
         "license": "GPL-3.0",
-        "checked": "2026-09-25",
+        "signer": "K Desktop Environment e.V.",
+        "files": [
+            {
+                "filename": "krita-x64-5.3.4.1-setup.exe",
+                "build": "Windows x64 installer",
+                "size_mb": 157.8,
+                "sha256": "025523cf1751ff209faf7ecfe1cff851f2cdab64acb8c555b307b349ad56ce8f"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/krita/"
     },
     {
@@ -1681,10 +1732,19 @@
         "official_domain": "libreoffice.org",
         "download_page": "https://www.libreoffice.org/download/download-libreoffice/",
         "winget_id": "TheDocumentFoundation.LibreOffice",
-        "version": "26.8.0",
-        "released": "2026-08-26",
+        "version": "26.8.1",
+        "released": "2026-10-08",
         "license": "MPL-2.0",
-        "checked": "2026-09-25",
+        "signer": "The Document Foundation",
+        "files": [
+            {
+                "filename": "LibreOffice_26.8.1_Win_x86-64.msi",
+                "build": "Windows x86-64 MSI (multilingual)",
+                "size_mb": 357.5,
+                "sha256": "c6298b10cfa1748bcbedad94c62ce771e240e5021bfd6d7a967cd571b04b5312"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/libreoffice/"
     },
     {
@@ -1918,25 +1978,25 @@
             {
                 "filename": "PowerToysUserSetup-0.101.2362.0-x64.exe",
                 "build": "Per-user installer, x64",
-                "size_mb": 282.6,
+                "size_mb": 296.37,
                 "sha256": "d56fa7130fa68afe553068c15a59a6b24c8dbcc9a0989a43ef0fc5a373230de3"
             },
             {
                 "filename": "PowerToysUserSetup-0.101.2362.0-arm64.exe",
                 "build": "Per-user installer, ARM64",
-                "size_mb": 274.5,
+                "size_mb": 287.82,
                 "sha256": "4c2ae5156b7e4f1f5ba744ba6e1cf6bfe3d9614978356e6b00aa47cab86350db"
             },
             {
                 "filename": "PowerToysSetup-0.101.2362.0-x64.exe",
                 "build": "Machine-wide installer, x64",
-                "size_mb": 282.7,
+                "size_mb": 296.4,
                 "sha256": "f27e4b4b01bff1a74bfa0116c99f9205f7138db6f7dfcaa9223fb8b635fe6050"
             },
             {
                 "filename": "PowerToysSetup-0.101.2362.0-arm64.exe",
                 "build": "Machine-wide installer, ARM64",
-                "size_mb": 274.5,
+                "size_mb": 287.84,
                 "sha256": "bee299302c0cd59e282bdc92cc8aaf737713eabcca77bb8bf09f43745d43cd93"
             }
         ],
@@ -1979,10 +2039,19 @@
         "official_domain": "firefox.com",
         "download_page": "https://www.firefox.com/en-US/",
         "winget_id": "Mozilla.Firefox",
-        "version": "156.0.1",
-        "released": "2026-09-22",
+        "version": "158.0",
+        "released": "2026-10-13",
         "license": "MPL-2.0",
-        "checked": "2026-09-25",
+        "signer": "Mozilla Corporation",
+        "files": [
+            {
+                "filename": "Firefox Setup 158.0.exe",
+                "build": "Windows x64 full installer, en-US",
+                "size_mb": 90.5,
+                "sha256": "450ab1c772e02f0c9ef02f489b153d86c45bd9311b202d10dc233f3c0206f8d1"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/firefox/"
     },
     {
@@ -3457,22 +3526,7 @@
                 "sha256": "ee3917bd5a9973c0b2f8f3ef85048bf68ae089ec88f5561ad78b6ad308b51ab5"
             }
         ],
-        "source_check": {
-            "date": "2026-10-11",
-            "fields": [
-                "version",
-                "released",
-                "download_page",
-                "files[].filename",
-                "files[].sha256",
-                "files[].size_mb"
-            ],
-            "sources": [
-                "https://github.com/ventoy/Ventoy/releases/tag/v1.1.18"
-            ],
-            "method": "Publisher metadata only; no installation, hardware or Authenticode test."
-        },
-        "checked": "2026-10-11",
+        "checked": "2026-09-25",
         "details_url": "https://softwares-academy.com/software/ventoy/"
     },
     {
@@ -3569,16 +3623,6 @@
                 "source": "https://github.com/ramensoftware/windhawk/discussions/900"
             }
         ],
-        "source_check": {
-            "date": "2026-10-11",
-            "fields": [
-                "files[].size_mb"
-            ],
-            "sources": [
-                "https://github.com/ramensoftware/windhawk/releases/tag/v1.7.3"
-            ],
-            "method": "Publisher metadata only; no installation, hardware or Authenticode test."
-        },
         "checked": "2026-09-25",
         "details_url": "https://softwares-academy.com/software/windhawk/"
     },
