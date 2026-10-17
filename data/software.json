@@ -670,8 +670,18 @@
         "official_domain": "discord.com",
         "download_page": "https://discord.com/download",
         "winget_id": "Discord.Discord",
+        "version": "1.0.9262",
         "license": "Proprietary (free)",
-        "checked": "2026-09-25",
+        "signer": "Discord Inc.",
+        "files": [
+            {
+                "filename": "DiscordSetup.exe",
+                "build": "Windows x64 installer, stable channel",
+                "size_mb": 139.3,
+                "sha256": "4969807e8b35a007ce957e9e78a6a810ea6136359eba051e07189bcdfefd4a1e"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/discord/"
     },
     {
@@ -1177,7 +1187,16 @@
         "download_page": "https://www.google.com/chrome/",
         "winget_id": "Google.Chrome",
         "license": "Freeware",
-        "checked": "2026-09-26",
+        "signer": "Google LLC",
+        "files": [
+            {
+                "filename": "ChromeStandaloneSetup64.exe",
+                "build": "Chrome offline (standalone) installer, 64-bit",
+                "size_mb": 159.3,
+                "sha256": "d7e898f080258c41996846a423b77bfdab0c14ea1e38afddfdf496c286fc7983"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/google-chrome/"
     },
     {
@@ -1979,8 +1998,19 @@
         "official_domain": "microsoft.com",
         "download_page": "https://www.microsoft.com/en-us/edge/download",
         "winget_id": "Microsoft.Edge",
+        "version": "155.0.4283.62",
+        "released": "2026-10-16",
         "license": "Proprietary",
-        "checked": "2026-09-26",
+        "signer": "Microsoft Corporation",
+        "files": [
+            {
+                "filename": "MicrosoftEdgeEnterpriseX64.msi",
+                "build": "Edge Stable for Business, Windows x64 MSI (full offline installer)",
+                "size_mb": 204.6,
+                "sha256": "20119979eb1670f670d38c093fd1c61f5a91d880c473f8614825ce9aef35f68a"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/microsoft-edge/"
     },
     {
@@ -2045,7 +2075,16 @@
         "download_page": "https://www.microsoft.com/en-us/microsoft-teams/download-app",
         "winget_id": "Microsoft.Teams",
         "license": "Proprietary, free tier",
-        "checked": "2026-09-26",
+        "signer": "Microsoft Corporation",
+        "files": [
+            {
+                "filename": "teamsbootstrapper.exe",
+                "build": "Teams bootstrapper for Windows, which downloads the app during setup",
+                "size_mb": 1.9,
+                "sha256": "c9d1c68b1f9048e6d04bc4313a4036f91c255df0988c4d876f687b5c1140440d"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/microsoft-teams/"
     },
     {
@@ -3030,8 +3069,17 @@
         "download_page": "https://www.scribus.net/downloads/",
         "winget_id": "Scribus.Scribus",
         "version": "1.6.6",
+        "released": "2026-04-13",
         "license": "GPL-2.0-or-later",
-        "checked": "2026-09-26",
+        "files": [
+            {
+                "filename": "scribus-1.6.6-windows-x64.exe",
+                "build": "Windows 64-bit installer",
+                "size_mb": 118.6,
+                "sha256": "4c7313da22b8daa025dab0a2d57e82e8b1827c8a46a02db1d4e78b6037b40264"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/scribus/"
     },
     {
@@ -3143,10 +3191,19 @@
         "download_page": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms",
         "source_repo": "https://github.com/signalapp/Signal-Desktop",
         "winget_id": "OpenWhisperSystems.Signal",
-        "version": "8.28.0",
-        "released": "2026-09-23",
+        "version": "8.31.0",
+        "released": "2026-10-15",
         "license": "AGPL-3.0",
-        "checked": "2026-09-26",
+        "signer": "Signal Messenger, LLC",
+        "files": [
+            {
+                "filename": "signal-desktop-win-x64-8.31.0.exe",
+                "build": "Signal Desktop for Windows x64",
+                "size_mb": 136.1,
+                "sha256": "fb2c8995c80d11aa4aaf6fc0943495d17afd3ff4182e2c0c58476442a28b3644"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/signal/"
     },
     {
@@ -3165,9 +3222,18 @@
         "official_domain": "slack.com",
         "download_page": "https://slack.com/downloads/windows",
         "winget_id": "SlackTechnologies.Slack",
-        "version": "4.52.162",
+        "version": "4.52.178",
         "license": "Proprietary, free tier",
-        "checked": "2026-09-26",
+        "signer": "Slack Technologies, LLC",
+        "files": [
+            {
+                "filename": "SlackSetup.exe",
+                "build": "Windows x64 installer",
+                "size_mb": 158.9,
+                "sha256": "edec34a6cd42a33da7556bac0ceb4046ae9e37ac0b1a4ae83a1b321c381ee062"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/slack/"
     },
     {
@@ -3213,7 +3279,16 @@
         "download_page": "https://www.spotify.com/us/download/windows/",
         "winget_id": "Spotify.Spotify",
         "license": "Proprietary, free tier",
-        "checked": "2026-09-26",
+        "signer": "Spotify AB",
+        "files": [
+            {
+                "filename": "SpotifySetup.exe",
+                "build": "small online installer that downloads the app during setup",
+                "size_mb": 1,
+                "sha256": "7835735e412d3acb375edd1bd2ac7ef16bc76338ae02a187161b20db99531f21"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/spotify/"
     },
     {
@@ -3252,7 +3327,16 @@
         "version": "7.5",
         "released": "2024-08-21",
         "license": "GPL-2.0-or-later",
-        "checked": "2026-09-26",
+        "signer": "SPACE MUSHROOMS S.R.L.",
+        "files": [
+            {
+                "filename": "SweetHome3D-7.5-windows.exe",
+                "build": "free Windows installer with bundled Java",
+                "size_mb": 81,
+                "sha256": "bfc91a3cfe2bfbeecbbbbcf32e1e85d75bf2a9d32fe36e5d621bdf40cb801e5c"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/sweet-home-3d/"
     },
     {
