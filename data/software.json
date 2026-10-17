@@ -81,7 +81,16 @@
         "version": "5.40.2727",
         "released": "2026-09-08",
         "license": "Freeware",
-        "checked": "2026-09-26",
+        "signer": "IP Izmaylov Artem Andreevich",
+        "files": [
+            {
+                "filename": "AIMP 5.40.2727 64-bit installer",
+                "build": "Windows 64-bit installer",
+                "size_mb": 21,
+                "sha256": "cc6babde28777edcdf608d09d5abadb188c13a5fcbfe63740b53e76ea026c4cd"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/aimp/"
     },
     {
@@ -1486,10 +1495,18 @@
         "official_domain": "codecguide.com",
         "download_page": "https://codecguide.com/download_kl.htm",
         "winget_id": "CodecGuide.K-LiteCodecPack.Standard",
-        "version": "20.0.0",
-        "released": "2026-09-17",
+        "version": "20.0.5",
+        "released": "2026-10-08",
         "license": "Freeware",
-        "checked": "2026-09-26",
+        "files": [
+            {
+                "filename": "K-Lite_Codec_Pack_2005_Standard.exe",
+                "build": "Standard edition installer",
+                "size_mb": 39.4,
+                "sha256": "291d99415c576f7a374fc3e22073457c87ee4171fdcd3089f0c3e3c9344b6739"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/k-lite-codec-pack/"
     },
     {
@@ -1599,7 +1616,15 @@
         "winget_id": "XBMCFoundation.Kodi",
         "version": "21.3",
         "license": "GPL-2.0-or-later",
-        "checked": "2026-09-26",
+        "files": [
+            {
+                "filename": "kodi-21.3-Omega-x64.exe",
+                "build": "Windows 64-bit installer",
+                "size_mb": 74,
+                "sha256": "2c46c2bd60b38bb60eb0a5e3468bfd43e9235521eae2910b8c81455e46335c5c"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/kodi/"
     },
     {
@@ -2411,7 +2436,15 @@
         "version": "2021.01",
         "released": "2021-01-31",
         "license": "GPL-2.0",
-        "checked": "2026-09-26",
+        "files": [
+            {
+                "filename": "OpenSCAD-2021.01-x86-64-Installer.exe",
+                "build": "Windows 64-bit installer",
+                "size_mb": 20.9,
+                "sha256": "fbe1e590e1af2af863f5d92bd263eb4644d0ee29352e3ab566366e87a8f6ed12"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/openscad/"
     },
     {
@@ -2713,8 +2746,18 @@
         "download_page": "https://www.plex.tv/media-server-downloads/",
         "winget_id": "Plex.PlexMediaServer",
         "version": "1.43.4.10903",
+        "released": "2026-08-17",
         "license": "Proprietary, free tier",
-        "checked": "2026-09-26",
+        "signer": "Plex, Inc.",
+        "files": [
+            {
+                "filename": "PlexMediaServer-1.43.4.10903-e5521bd8c-x86_64.exe",
+                "build": "Plex Media Server, Windows x64",
+                "size_mb": 96,
+                "sha256": "4543b1307d601f4e69cf6de81d4fd0eefd9e1f94cd9d6e36f342e40aa6326025"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/plex/"
     },
     {
@@ -2730,8 +2773,18 @@
         "download_page": "https://potplayer.tv/",
         "winget_id": "Daum.PotPlayer",
         "version": "260819",
+        "released": "2026-08-19",
         "license": "Freeware",
-        "checked": "2026-09-26",
+        "signer": "Kakao Corp.",
+        "files": [
+            {
+                "filename": "PotPlayerSetup64.exe",
+                "build": "64-bit setup (unversioned Latest link)",
+                "size_mb": 46.9,
+                "sha256": "4b9833adf53b78c2149fe13dd67f2504bf39ee30b45c03f09e5f2c25e43f9cfe"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/potplayer/"
     },
     {
@@ -3740,9 +3793,18 @@
         "official_domain": "xnview.com",
         "download_page": "https://www.xnview.com/en/xnview-mp/",
         "winget_id": "XnSoft.XnViewMP",
-        "version": "1.11.7",
+        "version": "1.12.2",
         "license": "Freeware for private and educational use; paid licence for company use",
-        "checked": "2026-09-26",
+        "signer": "GOUGELET PIERRE-EMMANUEL",
+        "files": [
+            {
+                "filename": "XnView_MP-1.12.2-win-x64.exe",
+                "build": "Windows x64 setup (served as XnViewMP-win-x64.exe)",
+                "size_mb": 65.9,
+                "sha256": "56aa2e1e968d8c83ca969e1f8ecf5a9d7c3d589ab9d892efa816498983d12735"
+            }
+        ],
+        "checked": "2026-10-17",
         "details_url": "https://softwares-academy.com/software/xnview-mp/"
     },
     {
